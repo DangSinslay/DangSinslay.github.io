@@ -18,5 +18,4 @@ Cliquer sur <mark>Entiers, décimaux</mark> puis sur <mark>Multiplier par 10;100
  
 ⦿ Regarder cette vidéo si vous avez du mal avec les priorités opératoires :
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a-IG_bjKeJc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- 
+{% youtube oHg5SJYRHA0 500 400 %}
