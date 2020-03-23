@@ -12,7 +12,14 @@ body {
 }
 
 a {
+	color: #2e86de !important;
 	text-decoration: none;	
+}
+
+mark {
+	background: #EBEBEB !important;
+	border-radius: 2px !important;
+	padding: 5px 8px 8px 8px !important;
 }
 
 ul li {
