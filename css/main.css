@@ -16,6 +16,14 @@ a {
 	text-decoration: none;	
 }
 
+.exercice {
+	color: #10ac84 !important;
+}
+
+.correction {
+	color: #ee5253 !important;
+}
+
 mark {
 	background: #EBEBEB !important;
 	border-radius: 2px !important;
