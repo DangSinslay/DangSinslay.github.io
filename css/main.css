@@ -26,19 +26,19 @@ a {
 
 .correction::before,
 .exercice::before {
-    content: "dd" !important;
-    color: transparent !important;
-    background: no-repeat url("/css/image/pdf_icon.png") center;
-    background-size: 18px auto;
-    padding-right: 3px !important;
+	content: "dd" !important;
+	color: transparent !important;
+	background: no-repeat url("/css/image/pdf_icon.png") center;
+	background-size: 15px auto;
+	padding-right: 3px !important;
 }
 
 .video::before {
-    content: "dd" !important;
-    color: transparent !important;
-    background: no-repeat url("/css/image/video_icon.png") center;
-    background-size: 18px auto;
-    padding-right: 3px !important;
+	content: "dd" !important;
+	color: transparent !important;
+	background: no-repeat url("/css/image/video_icon.png") center;
+	background-size: 15px auto;
+	padding-right: 3px !important;
 }
 
 mark {
