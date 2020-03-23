@@ -114,6 +114,14 @@ nav ul li a:hover {
     	padding: 10px 30px 30px 30px !important;
 }
 
+.posts li {
+	padding: 5px 0px !important;
+}
+
+.posts li:not(:last-child) {
+	border-bottom: 1px dotted #BEBEBE;	
+}
+
 .back {
 	background: #10ac84 !important;
 	border-radius: 2px !important;
