@@ -6,7 +6,7 @@ category: 4eme
 blog: blog4
 ---
 
-Voici le programme du <b>mardi 17 mars</b> :
+Voici le programme du <b>jeudi 19 mars</b> :
 
 ⦿ Aller sur le site <a href="http://mathsmentales.net/">MathsMentales</a> et s'entraîner sur développer une expression littérale.
 <br>
