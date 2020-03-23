@@ -69,7 +69,7 @@ nav ul li a {
 }
 
 .banner {
-	background: no-repeat url("/css/image/banner1.png") 11% center !important;
+	background: no-repeat url("/css/image/banner1.png") center 11% !important;
 	background-size: cover !important;
 	width: 100%;
 	height: 180px;
