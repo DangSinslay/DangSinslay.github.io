@@ -20,14 +20,7 @@ title: Blog de Mr. DANG, professeur de mathématiques
 		{% endfor %}
 	</ul>
 
-	<h1>Derniers postes (6eme)</h1>
-	<ul class="posts">
-		{% for post in site.categories.6eme limit:3 %}
-			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
-
-	<h1>Derniers postes (Autres)</h1>
+	<h1>Autres/Derniers postes</h1>
 	<ul class="posts">
 		{% for post in site.categories.trivia limit:3 %}
 			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
