@@ -11,6 +11,10 @@ body {
         overflow-x: hidden;
 }
 
+a {
+	text-decoration: none;	
+}
+
 nav {
         background: #3E4651;
         padding: 0px 10px;
