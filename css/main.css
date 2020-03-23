@@ -81,10 +81,25 @@ nav ul li a {
 	border-bottom: 1px solid #e0e5e6;
 	color: #7c9398;
 	font-size: 14px;
-	height: 60px;
+	height: 65px;
 	width: 100%;
-	line-height: 60px;
+	line-height: 65px;
 	text-align: center;
+}
+
+.subbar span:not(:last-child) {
+    border-right: 1px dotted #d1d9db;
+    padding-right: 25px !important;
+    margin-right: 15px !important;
+}
+
+.subbar span a {
+	background: #FFF;
+	border: 1px solid #d1d9db !important;
+	border-radius: 2px;
+	color: #3a585f;
+	font-weight: bold;
+	padding: 8px 12px !important;
 }
 
 footer {
