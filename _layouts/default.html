@@ -3,6 +3,16 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<script type="text/javascript">
+				$(document).ready(function() {
+					function updateDate() {
+						var m = new Date();       
+						var dateString = ('0' + m.getDate()).slice(-2) + '.' + ('0' + (m.getMonth()+1)).slice(-2);
+						document.getElementById('date').innerHTML = dateString;
+					}
+					updateDate();
+				});
+      			</script>
 		</head>
 		<body>
 			<header></header>
@@ -15,6 +25,7 @@
 						<li>×</li>
 						<li><a href="/blog4">4eme</a></li>
 					</ul>
+					<div id="date"></div>
 				</nav>
 			<div class="banner"></div>
 			{{ content }}
