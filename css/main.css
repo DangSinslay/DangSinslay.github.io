@@ -102,6 +102,16 @@ nav ul li a {
 	padding: 8px 12px !important;
 }
 
+#content {
+    	padding: 10px 30px 30px 30px !important;
+}
+
+#content h1 {
+	font-family: "Raleway", sans-serif !important;
+	font-weight: 900 !important;
+	text-shadow: 3px 3px #EBEBEB !important;
+}
+
 footer {
 	background: #F6F7FB;
 	height: 42px;
