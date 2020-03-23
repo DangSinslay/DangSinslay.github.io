@@ -1,33 +1,54 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville: 300,300italic,400,400italic,700,700italic, 900, 900italic|Montserrat: 300,400,700,900|Raleway: 300,400,700,900|Roboto: 300,400,700,900');
+
+* {
+        font-family: "Roboto", sans-serif !important;
 }
-nav ul, footer ul {
+
+body {
+        background: #F6F7FB;
+        padding: 0;
+        margin: 0;
+        overflow-x: hidden;
+}
+
+nav {
+        border-top: 1px solid #d5d5d5;
+}
+
+nav ul, 
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+
+nav ul li, 
+footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
