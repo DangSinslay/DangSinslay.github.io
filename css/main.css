@@ -75,6 +75,18 @@ nav ul li a {
 	height: 180px;
 }
 
+.subbar {
+	
+	background: #F6F8F8;
+	border-bottom: 1px solid #e0e5e6;
+	color: #7c9398;
+	font-size: 14px;
+	height: 60px;
+	width: 100%;
+	line-height: 60px;
+	text-align: center;
+}
+
 footer {
 	background: #F6F7FB;
 	height: 42px;
