@@ -56,6 +56,18 @@ nav ul li a {
         letter-spacing: 1px;
 }
 
+.date {
+	color: #FFF;
+        font-family: "Montserrat", sans-serif !important;
+	font-size: 10pt;
+	font-weight: bold;
+	letter-spacing: 1px;
+	float: right;	
+	position: relative;
+	top: -20px;
+	right: 20px;
+}
+
 .banner {
 	background: no-repeat url("/css/image/banner1.png") 11% center !important;
 	background-size: cover !important;
