@@ -15,6 +15,21 @@ a {
 	text-decoration: none;	
 }
 
+header {
+	background: #F6F7FB;
+	height: 40px;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	z-index: 999;
+}
+
+.container {
+	background: #FFF;
+	height: auto;
+	margin: 40px;
+}
+
 nav {
         background: #3E4651;
         padding: 0px 10px;
@@ -33,4 +48,12 @@ nav ul li a {
         font-size: 10pt;
         font-weight: bold;
         letter-spacing: 1px;
+}
+
+footer {
+	background: #F6F7FB;
+	height: 42px;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
 }
