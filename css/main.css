@@ -69,7 +69,7 @@ nav ul li {
 
 nav ul li,
 nav ul li a {        
-	color: #FFF;
+	color: #FFF !important;
         font-family: "Montserrat", sans-serif !important;
         font-size: 10pt;
         font-weight: bold;
