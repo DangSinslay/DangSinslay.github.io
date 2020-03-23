@@ -6,7 +6,7 @@ category: 6eme
 blog: blog6
 ---
 
-Voici le programme du <b>mjeudi 19 mars</b> :
+Voici le programme du <b>jeudi 19 mars</b> :
 
 ⦿ Aller sur le site <a href="http://mathsmentales.net/">MathsMentales</a> et s'entraîner sur les techniques opératoires.
 <br>
