@@ -31,9 +31,10 @@ header {
 }
 
 nav {
-        background: #3E4651;
-        padding: 0px 10px;
-        text-align: center;
+	background: #3E4651;
+	height: 35px;
+	line-height: 32px;
+	padding: 10px;
 }
 
 nav ul li {
