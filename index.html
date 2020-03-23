@@ -7,7 +7,9 @@ title: Blog de Mr. DANG, professeur de mathématiques
 	<p>Ce blog est destiné à mes élèves de 6eme et 4eme pour pouvoir travailler durant cette période de confinement (en particulier pour ceux qui ne peuvent pas accéder à Pronote).</a></p>
 	
 	<h1>Derniers postes</h1>
-	{% for post in site.posts offset:1 limit:2 %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	{% endfor %}
+	<ul class="posts">
+		{% for post in site.posts offset:1 limit:2 %}
+			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
 </div>
