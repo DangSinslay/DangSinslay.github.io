@@ -56,7 +56,7 @@ nav ul li a {
         letter-spacing: 1px;
 }
 
-.date {
+#date {
 	color: #FFF;
         font-family: "Montserrat", sans-serif !important;
 	font-size: 10pt;
