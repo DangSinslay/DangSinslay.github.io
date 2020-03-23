@@ -36,13 +36,13 @@ nav {
 }
 
 nav ul li {
+	margin-right: 5px !important;
 	list-style: none;
         text-transform: uppercase;
 	display: inline;
 }
 
-nav ul li,
-nav ul li a {        
+nav ul li b {        
 	color: #FFF;
         font-family: "Montserrat", sans-serif !important;
         font-size: 10pt;
