@@ -16,4 +16,7 @@ Cliquer sur <mark>Entiers, décimaux</mark> puis sur <mark>Multiplier par 10;100
  
 ⦿ Regarder la <a class="correction" href="/exercices/6eme/6eme_exercices_mardi_17_mars_2020_corrections.pdf">correction</a> pour vérifier son travail. 
  
+⦿ Regarder cette vidéo si vous avez du mal avec les priorités opératoires :
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a-IG_bjKeJc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
