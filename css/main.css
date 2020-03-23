@@ -15,10 +15,6 @@ a {
 	text-decoration: none;	
 }
 
-ul {
-	padding: 0px;	
-}
-
 header {
 	background: #F6F7FB;
 	height: 40px;
@@ -130,6 +126,10 @@ h1 {
 	font-family: "Raleway", sans-serif !important;
 	font-weight: 900 !important;
 	text-shadow: 3px 3px #EBEBEB !important;
+}
+
+#content ul {
+	padding: 0px;	
 }
 
 #content ul .meta {
