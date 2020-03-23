@@ -57,11 +57,11 @@ nav ul li a {
 }
 
 nav ul li a:hover,
-nav ul li a:focus {
+nav ul li a:active {
 	opacity: .6;
 }
 
-nav ul li a:focus {
+nav ul li a:active {
 	border-bottom: 4px solid #0984e3 !important;
 	padding-bottom: 19px !important;
 }
