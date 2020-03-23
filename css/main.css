@@ -41,7 +41,7 @@ nav ul li {
 	display: inline;
 }
 
-nav ul li a {        
+nav ul li * {        
 	color: #FFF;
         font-family: "Montserrat", sans-serif !important;
         font-size: 10pt;
