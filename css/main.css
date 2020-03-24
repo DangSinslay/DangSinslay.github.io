@@ -298,6 +298,10 @@ footer {
 		line-height: 50pt !important;
 	}
 	
+	.text p * {
+    		line-height: 50pt !important;
+	}
+	
 	.back,
 	.meta {
 		font-size: 16pt !important;
