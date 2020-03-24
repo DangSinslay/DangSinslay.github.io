@@ -304,9 +304,10 @@ footer {
 	#content .text {
 		border-top: none !important;	
 		border-bottom: none !important;
+		margin-top: 40px !important;
 	}
 	
-	.text p * {
+	#content .text p * {
     		line-height: 70pt !important;
 	}
 	
