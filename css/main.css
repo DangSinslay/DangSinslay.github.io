@@ -229,8 +229,10 @@ object {
 	right: 30px;
 	z-index: 99;
 }
+
 #top span {
-	font-family: "Montserrat", sans-serif !important;		
+	font-family: "Montserrat", sans-serif !important;	
+	font-weight: bold;
 }
 
 footer {
