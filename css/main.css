@@ -189,15 +189,21 @@ h1 {
     	display: inline;
 }
 
+#content p {
+	font-size: 12pt !important;	
+}
+
 #content .text {
 	border-bottom: 1px solid #EBEBEB !important;
 	border-top: 1px solid #EBEBEB;
+	font-size: 12pt !important;
 	margin-top: 30px !important;
 	margin-bottom: 20px !important;
 }
 
 #content .text p {
 	color: #303234 !important;
+	font-size: 12pt !important;
 	line-height: 1.7em !important;
 }
 
