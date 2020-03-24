@@ -252,6 +252,7 @@ footer {
 	header,
 	footer,
 	#date,
+	#top,
 	.subbar {
 		display: none;	
 	}
@@ -259,9 +260,13 @@ footer {
 	.container {
 		margin: 0 !important;
 	}
+	
+	nav {
+		padding: 20px 0px 25px 0px;	
+	}
 
 	nav ul li a {
-		font-size: 14pt !important;
+		font-size: 20pt !important;
 	}
 	
 }
