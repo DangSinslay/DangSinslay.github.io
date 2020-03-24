@@ -258,7 +258,7 @@ footer {
 	}
 
 	.banner {
-		height: 250px !important;	
+		height: 500px !important;	
 	}
 	
 	.container {
@@ -271,6 +271,14 @@ footer {
 
 	nav ul li a {
 		font-size: 30pt !important;
+	}
+	
+	#content {
+		padding: 40px !important;	
+	}
+	
+	h1 {
+		margin: 20px 0px !important;	
 	}
 	
 	#content p,
