@@ -213,6 +213,26 @@ object {
 	max-height: 500px !important;
 }
 
+#top {
+	background: #3E4651;
+	border: none;
+	border-radius: 2px;
+	color: white;
+	cursor: pointer;
+	letter-spacing: .5px;
+	outline: none;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+}
+#top span {
+	font-family: "Montserrat", sans-serif !important;		
+}
+
 footer {
 	background: #F6F7FB;
 	height: 42px;
