@@ -318,6 +318,10 @@ footer {
 		margin-top: 30px !important;
 	}
 	
+	img {
+    		width: 100% !important;
+	}
+	
 	.correction::before,
 	.exercice::before,
 	.video::before {
