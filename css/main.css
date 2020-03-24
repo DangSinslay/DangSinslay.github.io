@@ -16,6 +16,10 @@ a {
 	text-decoration: none;	
 }
 
+hr {
+	border: 2px solid #EBEBEB !important;
+}
+
 .exercice {
 	color: #10ac84 !important;
 }
