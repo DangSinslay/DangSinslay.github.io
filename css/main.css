@@ -221,7 +221,7 @@ object {
 	cursor: pointer;
 	letter-spacing: .5px;
 	outline: none;
-	padding: 10px 20px;
+	padding: 10px 20px 12px 20px;
 	text-transform: uppercase;
 	display: none;
 	position: fixed;
