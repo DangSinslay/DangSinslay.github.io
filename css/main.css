@@ -257,6 +257,10 @@ footer {
 		display: none !important;	
 	}
 
+	.banner {
+		height: 250px !important;	
+	}
+	
 	.container {
 		margin: 0 !important;
 	}
@@ -269,7 +273,8 @@ footer {
 		font-size: 30pt !important;
 	}
 	
-	#content p {
+	#content p,
+	.posts a {
 		font-size: 18pt !important;
 		line-height: 32pt !important;
 	}
