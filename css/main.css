@@ -197,8 +197,13 @@ h1 {
 }
 
 #content .text p {
-    color: #303234 !important;
-    line-height: 1.7em !important;
+	color: #303234 !important;
+	line-height: 1.7em !important;
+}
+
+object {
+	border: 3px solid #BEBEBE !important;
+	max-height: 500px !important;
 }
 
 footer {
