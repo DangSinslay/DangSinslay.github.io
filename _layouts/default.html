@@ -13,6 +13,20 @@
 					}
 					updateDate();
 				});
+				$(document).ready(function() {
+					$(window).scroll(function(){
+						if ($(this).scrollTop() > 100) {
+							$('#top').fadeIn();
+						} else {
+							$('#top').fadeOut();
+						}
+					});
+
+					$('#top').click(function(){
+						$('html, body').animate({scrollTop : 0},800);
+						return false;
+					});
+				});
       			</script>
 		</head>
 		<body>
@@ -38,6 +52,9 @@
 				{{ content }}
 			</div><!-- /.container -->
 	
+			<button onclick="topFunction()" id="top" title="Go to top">
+				<span lang="fr">Haut</span>
+			</button>
 			<footer></footer>
 		</body>
 	</html>
