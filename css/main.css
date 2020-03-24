@@ -262,11 +262,11 @@ footer {
 	}
 	
 	nav {
-		padding: 20px 0px 25px 0px;	
+		padding: 50px 0px;	
 	}
 
 	nav ul li a {
-		font-size: 20pt !important;
+		font-size: 30pt !important;
 	}
 	
 }
