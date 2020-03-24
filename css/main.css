@@ -248,7 +248,20 @@ footer {
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-body {
-	display: none;	
-}
+	
+	header,
+	footer,
+	#date,
+	.subbar {
+		display: none;	
+	}
+
+	.container {
+		margin: 0 !important;
+	}
+
+	nav ul li a {
+		font-size: 14pt !important;
+	}
+	
 }
