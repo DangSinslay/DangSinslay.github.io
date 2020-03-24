@@ -254,7 +254,7 @@ footer {
 	#date,
 	#top,
 	.subbar {
-		display: none;	
+		display: none !important;	
 	}
 
 	.container {
@@ -269,4 +269,8 @@ footer {
 		font-size: 30pt !important;
 	}
 	
+	#content p {
+		font-size: 18pt !important;
+		line-height: 32pt !important;
+	}
 }
