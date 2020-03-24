@@ -269,6 +269,7 @@ footer {
 		padding: 45px 0px 50px 0px;	
 	}
 
+	nav ul li,
 	nav ul li a {
 		font-size: 30pt !important;
 	}
@@ -287,5 +288,11 @@ footer {
 	.posts a {
 		font-size: 18pt !important;
 		line-height: 32pt !important;
+	}
+	
+	.back,
+	.meta {
+		font-size: 16pt !important;
+		padding: 15px 25px 17px 25px !important;
 	}
 }
