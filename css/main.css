@@ -274,7 +274,8 @@ footer {
 	}
 	
 	#content {
-		padding: 40px !important;	
+		padding: 40px !important;
+		text-align: center !important;
 	}
 	
 	h1 {
