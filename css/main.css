@@ -293,20 +293,21 @@ footer {
 	#content p,
 	.posts a {
 		font-size: 18pt !important;
-		line-height: 50pt !important;
+		line-height: 70pt !important;
 	}
 	
 	.posts li {
-		line-height: 50pt !important;
+		line-height: 70pt !important;
 	}
 	
 	
 	#content .text {
 		border-top: none !important;	
+		border-bottom: none !important;
 	}
 	
 	.text p * {
-    		line-height: 50pt !important;
+    		line-height: 70pt !important;
 	}
 	
 	.meta {
