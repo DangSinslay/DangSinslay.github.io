@@ -300,6 +300,11 @@ footer {
 		line-height: 50pt !important;
 	}
 	
+	
+	#content .text {
+		border-top: none !important;	
+	}
+	
 	.text p * {
     		line-height: 50pt !important;
 	}
@@ -308,6 +313,7 @@ footer {
 		border-radius: 4px !important;
 		font-size: 16pt !important;
 		padding: 20px 25px 22px 25px !important;
+		margin-top: 30px !important;
 	}
 	
 	.correction::before,
