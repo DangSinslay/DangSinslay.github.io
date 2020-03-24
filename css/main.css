@@ -253,6 +253,7 @@ footer {
 	footer,
 	#date,
 	#top,
+	.back,
 	.subbar {
 		display: none !important;	
 	}
@@ -302,7 +303,6 @@ footer {
     		line-height: 50pt !important;
 	}
 	
-	.back,
 	.meta {
 		font-size: 16pt !important;
 		padding: 15px 25px 17px 25px !important;
