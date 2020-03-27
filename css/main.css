@@ -160,6 +160,15 @@ nav ul li a:hover {
 	border-bottom: 1px dotted #BEBEBE;	
 }
 
+.posts li.new::after {
+	background: #8e44ad !important;
+	border-radius: 2px !important;
+	content: "nouveau" !important;
+	color: #FFF !important;
+	padding: 0px 10px 2px 10px !important;
+	margin-left: 10px !important;
+}
+
 .back {
 	background: #10ac84 !important;
 	border-radius: 2px !important;
