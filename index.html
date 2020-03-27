@@ -25,10 +25,10 @@ title: Blog de Mr. DANG, professeur de mathématiques
 
 	<h1 class="section">Derniers articles (4ème)</h1>
 	<ul class="posts">
-		{% for post in site.categories.6eme limit:1 %}
+		{% for post in site.categories.4eme limit:1 %}
 			<li class="new"><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
-		{% for post in site.categories.6eme offset:1 limit:2 %}
+		{% for post in site.categories.4eme offset:1 limit:2 %}
 			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
 		<li><a href="\blog4">Voir les autres articles</a>
@@ -36,10 +36,10 @@ title: Blog de Mr. DANG, professeur de mathématiques
 
 	<h1 class="section">Derniers articles (Autres)</h1>
 	<ul class="posts">
-		{% for post in site.categories.6eme limit:1 %}
+		{% for post in site.categories.trivia limit:1 %}
 			<li class="new"><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
-		{% for post in site.categories.6eme offset:1 limit:2 %}
+		{% for post in site.categories.trivia offset:1 limit:2 %}
 			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
 		<li><a href="\blog">Voir les autres articles</a>
