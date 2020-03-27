@@ -168,6 +168,8 @@ nav ul li a:hover {
 	color: #FFF !important;
 	font-weight: bold !important;
 	padding: 0px 10px 4px 10px;
+	position: relative !important;
+	top: -2px !important;
 	margin-left: 10px;
 }
 
