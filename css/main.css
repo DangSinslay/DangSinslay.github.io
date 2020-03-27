@@ -330,9 +330,9 @@ footer {
 	
 	.meta {
 		border-radius: 5rem !important;
-		font-size: 8pt !important;
+		font-size: 12pt !important;
                 padding: 20px 50px 22px 50px !important;
-		text-transform: uppercase !important;
+		text-transform: lowercase !important;
 		margin-top: 30px !important;
 		margin-right: 5px !important;
 		
