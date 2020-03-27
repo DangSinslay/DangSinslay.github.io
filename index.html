@@ -14,7 +14,10 @@ title: Blog de Mr. DANG, professeur de mathématiques
 	<p><strong>Pour les 6ème :</strong> nous allons commencer <strong>un nouveau chapitre</strong> le mardi 31 mars</strong>, j'aimerais que vous finissiez un maximum d'exercices sur les priorités opératoires d'ici là.</p>
 	<h1 class="section">Derniers articles (6ème)</h1>
 	<ul class="posts">
-		{% for post in site.categories.6eme limit:3 %}
+		{% for post in site.categories.6eme limit:1 %}
+			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endfor %}
+		{% for post in site.categories.6eme limit:2 %}
 			<li><span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endfor %}
 		<li><a href="\blog6">Voir les autres articles</a>
