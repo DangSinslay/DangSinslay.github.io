@@ -138,7 +138,8 @@ nav ul li a:hover {
 	margin-right: 15px !important;
 }
 
-.subbar span a {
+.subbar span a,
+.subbar span strong {
 	background: #FFF;
 	border: 1px solid #d1d9db !important;
 	border-radius: 2px;
