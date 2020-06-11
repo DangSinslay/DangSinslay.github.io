@@ -173,6 +173,26 @@ nav ul li a:hover {
 	margin-left: 10px;
 }
 
+.chapter {
+	background: #ff9f43 !important;
+	border-radius: 2px;
+	color: #FFF !important;
+	font-weight: bold !important;
+	padding: 0px 10px 4px 10px;
+	position: relative !important;
+	right: 0px !important;
+}
+
+.format {
+	background: #10ac84 !important;
+	border-radius: 2px;
+	color: #FFF !important;
+	font-weight: bold !important;
+	padding: 0px 10px 4px 10px;
+	position: relative !important;
+	right: 30px !important;
+}
+
 .back {
 	background: #10ac84 !important;
 	border-radius: 2px !important;
