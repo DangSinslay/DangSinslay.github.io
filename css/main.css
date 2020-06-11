@@ -344,10 +344,10 @@ footer {
 	
 	.chapter,
 	.format {
-		border-radius: 5rem !important;
+		background: transparent !important;
 		font-size: 16pt !important;
-		position: relative !important;
-		margin-top: -3px !important;
+		float: none !important;
+		margin-left: 10px !important;
 	}
 	
 	#content .text {
