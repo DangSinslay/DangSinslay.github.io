@@ -346,8 +346,6 @@ footer {
 	.format {
 		border-radius: 5rem !important;
 		font-size: 16pt !important;
-		line-height: 40pt !important;
-                padding: 20px 50px 22px 50px !important;
 		position: relative !important;
 		margin-top: -3px !important;
 	}
