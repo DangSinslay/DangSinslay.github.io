@@ -356,14 +356,14 @@ footer {
 		content: "/" !important;	
 		font-weight: bold !important;
 		padding-right: 10px !important;
-		padding-left: 10px !important;
+		padding-left: 20px !important;
 	}
 	
 	.chapter::after {
 		color: #000 !important;
 		content: "/" !important;	
 		font-weight: bold !important;
-		padding-left: 10px !important;
+		padding-left: 20px !important;
 	}
 	
 	.chapter {
