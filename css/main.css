@@ -180,6 +180,7 @@ nav ul li a:hover {
 	font-weight: bold !important;
 	padding: 2px 10px 4px 10px;
 	float: right !important;
+	margin-top: -3px !important;
 }
 
 .format {
@@ -190,6 +191,7 @@ nav ul li a:hover {
 	padding: 2px 10px 4px 10px;
 	float: right !important;
 	margin-right: 5px !important;
+	margin-top: -3px !important;
 }
 
 .back {
