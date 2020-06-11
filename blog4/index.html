@@ -7,7 +7,7 @@ title: Blog pour les 4eme
 	<ul class="posts">
 
 	  {% for post in site.categories.4eme %}
-	    <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="chapter">{{ post.chapter }}</span><span class="format">{{ post.format }}</span></li>
+	    <li><span>{{ post.date | date: "%d/%m/%Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="chapter">{{ post.chapter }}</span><span class="format">{{ post.format }}</span></li>
 	  {% endfor %}
 	</ul>
 </div>
