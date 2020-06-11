@@ -176,7 +176,7 @@ nav ul li a:hover {
 .chapter {
 	background: #2f3640 !important;
 	border-radius: 2px;
-	color: #FFF !important;
+	color: #FFF;
 	font-weight: bold !important;
 	padding: 2px 10px 4px 10px;
 	float: right !important;
@@ -186,7 +186,7 @@ nav ul li a:hover {
 .format {
 	background: #10ac84 !important;
 	border-radius: 2px;
-	color: #FFF !important;
+	color: #FFF;
 	font-weight: bold !important;
 	padding: 2px 10px 4px 10px;
 	float: right !important;
@@ -352,7 +352,7 @@ footer {
 	}
 	
 	.chapter::after {
-		color: #2f3640 !important;
+		color: #000 !important;
 		content: "/" !important;	
 		padding-left: 5px !important;
 	}
