@@ -351,10 +351,19 @@ footer {
 		margin-left: 10px !important;
 	}
 	
+	.chapter::before {
+		color: #000 !important;
+		content: "/" !important;	
+		font-weight: bold !important;
+		padding-right: 10px !important;
+		padding-left: 10px !important;
+	}
+	
 	.chapter::after {
 		color: #000 !important;
 		content: "/" !important;	
-		padding-left: 5px !important;
+		font-weight: bold !important;
+		padding-left: 10px !important;
 	}
 	
 	.chapter {
