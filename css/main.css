@@ -44,6 +44,7 @@ nav ul button {
         letter-spacing: 2px !important;
         text-transform: uppercase;
         margin-right: 15px;
+        cursor: pointer;
 }
 
 #banner {
