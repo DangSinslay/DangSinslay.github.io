@@ -264,6 +264,7 @@ nav #intro:hover {
         text-align: center !important;
         display: table-cell !important;
         vertical-align: middle !important;
+        transition: all .3s ease-in-out !important;
 }
 
 #content .row #details .title {
