@@ -54,7 +54,7 @@ nav ul .link_blog {
 }
 
 #banner {
-        background: no-repeat 50% 65% url("https://images.fiftyfootshadows.net/2019/05/img637.jpg") !important;
+        background: no-repeat center url("https://i.imgur.com/lonPvZN.jpg") !important;
         background-size: cover;
         height: 250px !important;
         width: 100%;
@@ -64,7 +64,7 @@ nav ul .link_blog {
 }
 
 #banner #overlay {
-        background: rgba(0,0,0,.6) !important;
+        background: rgba(0,0,0,.75) !important;
         height: 100% !important;
 }
 
