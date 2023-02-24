@@ -199,7 +199,7 @@ nav #intro:hover {
         margin-top: 5px !important;
 }
 
-#content .thumbnail #title a {
+#content .thumbnail #title span {
         color: #000 !important;
         font-family: "Montserrat" !important;
         font-size: 13pt !important;
@@ -212,7 +212,7 @@ nav #intro:hover {
         display: block;
 }
 
-#content .thumbnail #title a:hover {
+#content .thumbnail #title span:hover {
         overflow: visible;
         white-space: normal !important;
 }
