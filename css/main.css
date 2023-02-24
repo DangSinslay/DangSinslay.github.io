@@ -30,6 +30,12 @@ nav #logo {
         padding: 6px 43px !important;
         position: relative;
         top: 1.5px !important;
+        transition: all .3s ease-in-out !important;
+}
+
+nav #logo:hover {
+        opacity: .6;       
+        transition: all .3s ease-in-out !important;
 }
 
 nav ul {
