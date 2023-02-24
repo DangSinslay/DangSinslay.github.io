@@ -47,12 +47,18 @@ nav ul button {
 }
 
 #banner {
-        background: #000 !important;
+        background: no-repeat center url("https://images.fiftyfootshadows.net/2019/05/img637.jpg") !important;
+        background-size: cover;
         height: 250px !important;
         width: 100%;
         text-align: center !important;;
         display: inline-block;
         margin-top: 70px !important;
+}
+
+#banner #overlay {
+        background: rgba(0,0,0,.6) !important;
+        height: 100% !important;
 }
 
 #banner p {
