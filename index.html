@@ -4,7 +4,7 @@ title: Page d'accueil
 ---
 <div id="content">
   <ul>
-    {% for post in site.categories.6eme limit:1 %}
+    {% for post in site.categories.carnets limit:1 %}
     <li class="thumbnail">
 	  <span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	  <div id="description">  
