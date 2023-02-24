@@ -13,7 +13,7 @@ title: Page d'accueil
 </p>
 	</div>
   <ul>
-    {% for post in site.categories.projets limit:4 %}
+    {% for post in site.categories.projets limit:6 %}
     <li class="thumbnail" style="background-image: url({{ post.preview }})">
 	  <div id="description">  
 	      {{ post.description }}
@@ -27,30 +27,5 @@ title: Page d'accueil
 	  </div>
     </li>
     {% endfor %}
-    <li class="thumbnail">
-      <div id="description">        
-         test2
-      </div>
-    </li>
-    <li class="thumbnail">
-      <div id="description">        
-         test3
-      </div>
-    </li>
-    <li class="thumbnail">
-      <div id="description">        
-         test4
-      </div>
-    </li>
-    <li class="thumbnail">
-      <div id="description">        
-         test5
-      </div>
-    </li>
-    <li class="thumbnail">
-      <div id="description">        
-         test6
-      </div>
-    </li>
   </ul>
 </div>
