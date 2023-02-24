@@ -168,6 +168,19 @@ nav #intro:hover {
         transition: all .3s ease-in-out;
 }
 
+#content .thumbnail #title {
+        text-align: left !important;
+        margin-top: 5px !important;
+}
+
+#content .thumbnail #title a {
+        color: #000 !important;
+        font-family: "Montserrat" !important;
+        font-size: 13pt !important;
+        font-weight: bold !important;
+        text-decoration: none !important;
+}
+
 #content .thumbnail #title .tags {
         border-radius: 3px !important;
         color: #FFF !important;
