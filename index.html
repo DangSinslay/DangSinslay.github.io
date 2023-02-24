@@ -16,11 +16,13 @@ title: Page d'accueil
 	<ul>
 		{% for post in site.categories.projets limit:9 %}
 		<li class="thumbnail" style="background-image: url({{ post.preview }})">
-			<div id="description">  
-				{{ post.description }}
-			</div>
+			<a href="{{ post.url }}" title="{{ post.title }}">
+				<div id="description">  
+					{{ post.description }}
+				</div>
+			</a>
 			<div id="title">
-				<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+				<span>{{ post.title }}</span>
 				<div class="tags">
 					<span>{{ post.category }}</span>
 					<span>{{ post.category2 }}</span>
