@@ -199,9 +199,13 @@ nav #intro:hover {
 }
 
 #content .thumbnail #title .tags span {
-        background: #a1c2db !important;
+        background: #63cdda;
         border-radius: 3px !important;
         padding: 4px 7px 7px 7px;
+}
+
+#content .thumbnail #title .tags span:nth-of-type(2) {
+        background: #f78fb3 !important;
 }
 
 }
