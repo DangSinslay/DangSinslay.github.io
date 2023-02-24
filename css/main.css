@@ -41,7 +41,7 @@ nav a {
 nav ul {
         display: inline;    
         position: relative !important;
-        top: 1.5px !important;
+        top: -2px !important;
 }
 
 nav ul .link_blog {
