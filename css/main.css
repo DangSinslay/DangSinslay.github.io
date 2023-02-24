@@ -55,7 +55,7 @@ nav ul .link_blog {
 
 #banner {
         background: no-repeat center url("https://i.imgur.com/lonPvZN.jpg") !important;
-        background-size: cover;
+        background-size: cover !important;
         height: 250px !important;
         width: 100%;
         text-align: center !important;;
