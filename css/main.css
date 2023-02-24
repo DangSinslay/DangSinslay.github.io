@@ -201,6 +201,11 @@ nav #intro:hover {
         display: block;
 }
 
+#content .thumbnail #title a:hover {
+        overflow: visible;
+        white-space: normal !important;
+}
+
 #content .thumbnail #title .tags {
         border-radius: 3px !important;
         color: #FFF !important;
