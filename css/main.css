@@ -37,20 +37,22 @@ nav #logo {
 nav ul {
         display: inline;    
         position: relative !important;
-        top: -2.5px !important;
+        top: 1.5px !important;
 }
 
 nav ul .link_blog {
+        color: #000 !important; 
         font-family: "Montserrat" !important;
         font-size: 12pt !important;
         font-weight: bold;
+        text-decoration: none !important;
         text-transform: uppercase;
         letter-spacing: 2px !important;
         margin-right: 20px !important;
 }
 
 #banner {
-        background: no-repeat center url("https://i.imgur.com/lonPvZN.jpg") !important;
+        background: no-repeat center top url("https://i.imgur.com/CsQjK1u.jpg") !important;
         background-size: cover !important;
         height: 250px !important;
         width: 100%;
@@ -60,22 +62,8 @@ nav ul .link_blog {
 }
 
 #banner #overlay {
-        background: rgba(0,0,0,.75) !important;
+        background: rgba(0,0,0,.5) !important;
         height: 100% !important;
-}
-
-#banner #mascot {
-        background: no-repeat center url("https://i.imgur.com/rkxmwUR.png") !important;
-        background-size: cover !important;
-        height: 180px !important;
-        width: 180px !important;
-        filter: invert(1) !important;
-        position: absolute;
-        top: 105px !important;
-        right: 0px !important;
-        left: 0px !important;
-        margin: 0 auto !important;
-        opacity: .9 !important;
 }
 
 #banner p {
