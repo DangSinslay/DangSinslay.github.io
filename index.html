@@ -20,7 +20,9 @@ title: Page d'accueil
 	  </div>
 	  <div id="title">
 	      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-              <span class="tags">{{ post.category }}</span> 	  
+              <div class="tags">
+		      <span>{{ post.category }}</span>
+	      </div> 	  
 	  </div>
     </li>
     {% endfor %}
