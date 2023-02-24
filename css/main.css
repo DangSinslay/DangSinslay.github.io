@@ -92,4 +92,24 @@ nav ul button {
         white-space: nowrap !important;
 }
 
+#content {
+        margin-top: 30px !important;
+}
+
+#content ul {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+}
+
+#content li {
+        border: 1px solid #000 !important;
+        height: 250px !important;
+        min-width: 250px !important;
+        width: 30% !important;
+        text-align: center !important;
+        margin: 10px !important;
+        margin: 0 auto 20px auto !important;
+}
+
 }
