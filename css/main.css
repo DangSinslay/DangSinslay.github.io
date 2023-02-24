@@ -30,11 +30,8 @@ nav {
         z-index: 999 !important;
 }
 
-nav a {
-        color: #000;
-        font-family: "Quentin";
-        font-size: 23pt;
-        text-decoration: none;
+nav #logo {
+        
 }
 
 nav ul {
@@ -67,7 +64,7 @@ nav ul .link_blog {
         height: 100% !important;
 }
 
-#banner #logo {
+#banner #mascot {
         background: no-repeat center url("https://i.imgur.com/rkxmwUR.png") !important;
         background-size: cover !important;
         height: 180px !important;
