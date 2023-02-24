@@ -14,7 +14,7 @@ title: Page d'accueil
 	</div>
   <ul>
     {% for post in site.categories.carnets limit:1 %}
-    <li class="thumbnail">
+    <li class="thumbnail" style="background-image: {{ post.preview }}">
 	  <div id="description">  
 	      {{ post.description }}
 	  </div>
