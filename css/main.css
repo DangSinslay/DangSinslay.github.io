@@ -120,9 +120,9 @@ nav #intro:hover {
 }
 
 #content #preambule p {
-        color: #4b4b4b !important;
+        color: #000 !important;
         font-family: "Raleway" !important;
-        font-size: 20pt !important;
+        font-size: 2vw !important;
         font-weight: bold !important;
         line-height: 38px !important;
 }
