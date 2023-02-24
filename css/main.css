@@ -5,7 +5,7 @@
 }
 
 body {
-        background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+        background: #FFF;
         padding: 0;
         margin: 0;
         overflow-x: hidden;
@@ -56,11 +56,24 @@ nav ul button {
 }
 
 #banner p {
-        color: #FFF !important;
+        color: #7268DE !important;
         display: inline-block !important;
         font-family: "Quentin" !important;
         font-size: 50pt !important;
         font-weight: bold !important;
+}
+
+#banner #logo {
+        background: no-repeat center url("https://i.imgur.com/rkxmwUR.png") !important;
+        background-size: cover !important;
+        height: 180px !important;
+        width: 180px !important;
+        filter: invert(1) !important;
+        position: absolute;
+        top: 100px !important;
+        right: 0px !important;
+        left: 0px !important;
+        margin: 0 auto !important;
 }
 
 }
