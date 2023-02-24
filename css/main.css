@@ -48,6 +48,24 @@ nav ul .link_blog {
         margin-right: 20px !important;
 }
 
+nav #intro {
+        color: #000 !important;
+        font-family: "Montserrat" !important;
+        font-size: 12pt !important;
+        font-weight: bold !important;
+        letter-spacing: 2px !important;
+        text-decoration: none !important;
+        text-transform: uppercase !important;
+        transition: all .3s ease-in-out;
+        margin-top: 2px !important;
+        float: right !important;
+}
+
+nav #intro:hover {
+        color: #1ab395 !important;
+        transition: all .3s ease-in-out !important;
+}
+
 #banner {
         background: no-repeat center top url("https://i.imgur.com/CsQjK1u.jpg") !important;
         background-size: cover !important;
