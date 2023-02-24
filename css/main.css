@@ -18,6 +18,7 @@ nav {
         line-height: 60px !important;
         padding: 0px 15px 5px 15px !important;
         position: fixed;
+        top: 0px !important;
         right: 0px !important;
         left: 0px;
         z-index: 999 !important;
