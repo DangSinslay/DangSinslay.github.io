@@ -125,7 +125,7 @@ nav ul button {
 
 #content .thumbnail #description {
         background: rgba(0,0,0,.5);
-        font-family: "Quentin";
+        font-family: "Quentin" !important;
         height: 230px !important;
         padding: 10px !important;
         display: table-cell !important;
