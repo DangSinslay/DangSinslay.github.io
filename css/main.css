@@ -61,7 +61,7 @@ nav ul .link_blog {
 }
 
 nav ul .link_blog:nth-child(1):hover {
-        color: #0984e3 !important;
+        color: #ffa801 !important;
         transition: all .3s ease-in-out;
 }
 
@@ -84,7 +84,7 @@ nav #intro {
 }
 
 nav #intro:hover {
-        color: #1ab395 !important;
+        color: #2e86de !important;
         transition: all .3s ease-in-out !important;
 }
 
@@ -199,7 +199,7 @@ nav #intro:hover {
         margin-top: 5px !important;
 }
 
-#content .thumbnail #title span {
+#content .thumbnail #title > span {
         color: #000 !important;
         font-family: "Montserrat" !important;
         font-size: 13pt !important;
@@ -212,7 +212,7 @@ nav #intro:hover {
         display: block;
 }
 
-#content .thumbnail #title span:hover {
+#content .thumbnail #title > span:hover {
         overflow: visible;
         white-space: normal !important;
 }
@@ -227,7 +227,7 @@ nav #intro:hover {
 }
 
 #content .thumbnail #title .tags span {
-        background: #63cdda;
+        background: #f78fb3;
         border-radius: 3px !important;
         font-family: "Raleway" !important;
         font-weight: 600 !important;
@@ -235,7 +235,7 @@ nav #intro:hover {
 }
 
 #content .thumbnail #title .tags span:nth-of-type(2) {
-        background: #f78fb3 !important;
+        background: #63cdda !important;
 }
 
 #content .row {
