@@ -13,7 +13,7 @@ title: Page d'accueil
 </p>
 	</div>
   <ul>
-    {% for post in site.categories.carnets limit:1 %}
+    {% for post in site.categories.projets limit:3 %}
     <li class="thumbnail" style="background-image: url({{ post.preview }})">
 	  <div id="description">  
 	      {{ post.description }}
