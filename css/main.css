@@ -27,5 +27,19 @@ nav a {
         text-decoration: none;
 }
 
+nav ul {
+        float: right;       
+}
+
+nav ul button {
+        background: transparent;
+        border: none !important;
+        color: #000 !important;
+        font-family: "Montserrat" !important;
+        font-size: 15pt !important;
+        font-weight: bold;
+        letter-spacing: 2px !important;
+        text-transform: uppercase;
+}
 
 }
