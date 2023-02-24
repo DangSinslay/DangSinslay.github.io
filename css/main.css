@@ -78,13 +78,13 @@ nav ul .link_blog {
         opacity: .9 !important;
 }
 
-
 #banner p {
-        color: #C09CFFDE !important;
+        color: #FFF !important;
         display: inline-block !important;
-        font-family: "Quentin" !important;
-        font-size: 50pt !important;
-        font-weight: bold !important;
+        font-family: "Montserrat" !important;
+        font-size: 30pt !important;
+        font-weight: 1000 !important;
+        letter-spacing: 5px !important;
         line-height: 250px !important;
         position: relative;
         margin: 0;
@@ -92,6 +92,7 @@ nav ul .link_blog {
         overflow: hidden !important;
         text-overflow: ellipsis !important;
         white-space: nowrap !important;
+        text-transform: uppercase !important;
 }
 
 #content {
