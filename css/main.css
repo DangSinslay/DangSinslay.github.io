@@ -130,7 +130,7 @@ nav #intro:hover {
 #preambule p strong {
         color: #e84393 !important;
         font-family: "Raleway" !important;
-        font-weight: 600 !important;
+        font-weight: bold !important;
 }
 
 #content ul {
