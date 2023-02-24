@@ -252,6 +252,11 @@ nav #intro:hover {
         margin-bottom: 40px !important;
 }
 
+#content .row:hover #details {
+        background: rgba(0,0,0,.9) !important;
+        transition: all .3s ease-in-out !important;
+}
+
 #content .row #details {
         background: rgba(0,0,0,.6);
         height: inherit !important;
