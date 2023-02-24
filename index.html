@@ -5,13 +5,14 @@ title: Page d'accueil
 <div id="content">
   <ul>
     {% for post in site.categories.Projets limit:1 %}
-	<li class="thumbnail">
-	<div id="description">        
-	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	{{ post.description }}
+    <li class="thumbnail">
+	<div id="description">  
+	    test
+	    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    <p>{{ post.description }}</p>
 	</div>
-	</li>
-	{% endfor %}
+    </li>
+    {% endfor %}
     <li class="thumbnail">
       <div id="description">        
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
