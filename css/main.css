@@ -178,7 +178,7 @@ nav #intro:hover {
         transition: all .3s ease-in-out;
 }
 
-#content .thumbnail:hover #description {
+#content .thumbnail #description:hover {
         opacity: 1;
         transition: all .3s ease-in-out;
 }
