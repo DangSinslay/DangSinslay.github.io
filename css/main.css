@@ -47,7 +47,7 @@ nav ul button {
 }
 
 #banner {
-        background: no-repeat center url("https://images.fiftyfootshadows.net/2019/05/img637.jpg") !important;
+        background: no-repeat 50% 65% url("https://images.fiftyfootshadows.net/2019/05/img637.jpg") !important;
         background-size: cover;
         height: 250px !important;
         width: 100%;
