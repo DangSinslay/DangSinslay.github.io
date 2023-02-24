@@ -6,8 +6,8 @@ title: Page d'accueil
   <ul>
     {% for post in site.categories.carnets limit:1 %}
     <li class="thumbnail">
-	  <span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	  <div id="description">  
+              <span>{{ post.date | date_to_string }}, {{ post.category }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	      {{ post.description }}
 	  </div>
     </li>
