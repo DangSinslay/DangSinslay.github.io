@@ -42,4 +42,18 @@ nav ul button {
         text-transform: uppercase;
 }
 
+#banner {
+        background: #000 !important;
+        height: 250px !important;
+        text-align: center !important;
+}
+
+#banner p {
+        color: #FFF !important;
+        display: inline-block !important;
+        font-family: "Quentin" !important;
+        font-size: 50pt !important;
+        font-weight: bold !important;
+}
+
 }
