@@ -133,6 +133,13 @@ nav #intro:hover {
         font-weight: bold !important;
 }
 
+#content h1 {
+        font-family: "Montserrat" !important;
+        font-size: 20pt !important;
+        text-align: center !important;
+        margin-left: 21px !important;
+}
+
 #content ul {
         display: flex !important;
         flex-direction: row !important;
