@@ -38,32 +38,19 @@ nav a {
         text-decoration: none;
 }
 
-nav .link_blog {
+nav ul {
+        display: inline;    
+        position: relative !important;
+        top: 1.5px !important;
+}
+
+nav ul .link_blog {
         font-family: "Montserrat" !important;
         font-size: 12pt !important;
         font-weight: bold;
         text-transform: uppercase;
         letter-spacing: 2px !important;
         margin-right: 20px !important;
-}
-
-nav ul {
-        display: inline;    
-        position: relative !important;
-        top: -3px !important;
-}
-
-nav ul button {
-        background: transparent;
-        border: none !important;
-        color: #000 !important;
-        font-family: "Montserrat" !important;
-        font-size: 11pt !important;
-        font-weight: bold;
-        letter-spacing: 2px !important;
-        text-transform: uppercase;
-        margin-right: 15px;
-        cursor: pointer;
 }
 
 #banner {
