@@ -102,6 +102,7 @@ nav ul button {
         display: flex !important;
         flex-direction: row !important;
         flex-wrap: wrap !important;
+        list-style: none !important;
 }
 
 #content li {
