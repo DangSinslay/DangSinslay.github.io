@@ -241,7 +241,7 @@ nav #intro:hover {
         margin-top: 30px !important;
 }
 
-#content .row:nth-of-type(2) {
+#content a:nth-of-type(2) .row {
         background: no-repeat center url("https://i.imgur.com/udnSPK3.jpg") !important;
         background-size: cover !important;
         margin-top: 20px !important;
