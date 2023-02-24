@@ -61,14 +61,6 @@ nav ul button {
         height: 100% !important;
 }
 
-#banner p {
-        color: #7268DE !important;
-        display: inline-block !important;
-        font-family: "Quentin" !important;
-        font-size: 50pt !important;
-        font-weight: bold !important;
-}
-
 #banner #logo {
         background: no-repeat center url("https://i.imgur.com/rkxmwUR.png") !important;
         background-size: cover !important;
@@ -80,6 +72,17 @@ nav ul button {
         right: 0px !important;
         left: 0px !important;
         margin: 0 auto !important;
+        opacity: .9 !important;
+}
+
+
+#banner p {
+        color: #C09CFFDE !important;
+        display: inline-block !important;
+        font-family: "Quentin" !important;
+        font-size: 50pt !important;
+        font-weight: bold !important;
+        position: relative;
 }
 
 }
