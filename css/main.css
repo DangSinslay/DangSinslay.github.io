@@ -232,4 +232,34 @@ nav #intro:hover {
         background: #f78fb3 !important;
 }
 
+#content .row {
+        background: no-repeat center 40% url("https://i.imgur.com/HtO73Fk.jpg") !important;
+        background-size: cover !important;
+        height: 350px !important;
+        margin-top: 30px !important;
+}
+
+#content .row #details {
+        background: rgba(0,0,0,.6);
+        height: inherit !important;
+        padding: 0px 50px !important;
+        text-align: center !important;
+        display: table-cell !important;
+        vertical-align: middle !important;
+}
+
+#content .row #details .title {
+        color: #FFF !important;
+        font-family: "Montserrat" !important;
+        font-size: 40pt !important;
+        font-weight: bold !important;
+}
+
+.row #details .description {
+        color: #E7E7E7 !important;
+        font-family: "Raleway" !important;
+        font-style: italic !important;
+        font-weight: 500;
+}
+
 }
