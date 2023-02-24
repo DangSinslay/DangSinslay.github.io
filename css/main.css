@@ -33,13 +33,24 @@ nav {
 
 nav a {
         color: #000;
-        font-family: "Quentin" !important;
-        font-size: 23pt !important;
+        font-family: "Quentin";
+        font-size: 23pt;
         text-decoration: none;
 }
 
+nav .link_blog {
+        font-family: "Montserrat" !important;
+        font-size: 12pt !important;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 2px !important;
+        margin-right: 20px !important;
+}
+
 nav ul {
-        display: inline;     
+        display: inline;    
+        position: relative !important;
+        top: -3px !important;
 }
 
 nav ul button {
