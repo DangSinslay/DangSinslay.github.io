@@ -107,6 +107,7 @@ nav ul .link_blog {
         flex-direction: row !important;
         flex-wrap: wrap !important;
         list-style: none !important;
+        margin-left: -35px;
 }
 
 #content .thumbnail {
