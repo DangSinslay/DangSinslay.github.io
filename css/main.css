@@ -225,6 +225,8 @@ nav #intro:hover {
 #content .thumbnail #title .tags span {
         background: #63cdda;
         border-radius: 3px !important;
+        font-family: "Raleway" !important;
+        font-weight: 600 !important;
         padding: 4px 7px 7px 7px;
 }
 
