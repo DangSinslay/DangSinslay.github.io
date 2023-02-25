@@ -281,4 +281,42 @@ nav #intro:hover {
         font-weight: 500;
 }
 
+footer {
+        background: #F5F5F5;
+        padding: 20px !important;
+        text-align: center !important;
+}
+
+footer a {
+        font-family: "Montserrat" !important;
+        font-weight: 500;
+}
+
+footer #mail::before {
+        background: no-repeat center url("https://i.imgur.com/HbiGWSC.png") !important;
+        background-size: 100% auto !important;
+        color: transparent !important;
+        content: "" !important;
+        padding: 2px 9px !important;
+        position: relative;
+        top: 1.5px !important;
+        margin-right: 6px !important;
+}
+
+footer #instagram::before {
+        background: no-repeat center url("https://i.imgur.com/GIPeIT0.png") !important;
+        background-size: 100% auto !important;
+        color: transparent !important;
+        content: "" !important;
+        padding: 2px 9px !important;
+        position: relative !important;
+        top: .5px !important;
+        margin-right: 6px !important;
+}
+
+footer .separator {
+        border-right: 1px dotted #7E7E7E !important;
+        margin: 0px 18px 0px 15px !important;
+}
+
 }
