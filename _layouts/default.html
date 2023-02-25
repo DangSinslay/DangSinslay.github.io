@@ -8,14 +8,12 @@
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
 				var x = document.getElementsByClassName("thumbnail");
-				var y = document.getElementById("button_gobelins");
 				function myFunction() {
 					for(var i=0; i < x.length; i++) {
 						x[i].style.display = "block";
 					}
 				}
 				function myFunction2() {
-					y.style.background = "#000";
 					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('gobelins')) {
 							x[i].style.display = "block";
