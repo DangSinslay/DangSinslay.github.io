@@ -298,6 +298,11 @@ nav #intro:hover {
         margin-right: 10px !important;
 }
 
+#subnav button:hover, 
+#subnav button:active {
+        background: #E7E7E7 !important;
+}
+
 #content #container {
         height: 300px !important;
         width: 100%;
