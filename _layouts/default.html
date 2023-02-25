@@ -8,9 +8,6 @@
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
 				var x = document.getElementsByClassName("thumbnail");
-				var all = document.getElementById("button_all");
-				var gobelins = document.getElementById("button_gobelins");
-				var stage = document.getElementById("button_stage");
 				function myFunction() {
 					for(var i=0; i < x.length; i++) {
 						x[i].style.display = "block";
@@ -20,10 +17,8 @@
 					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('gobelins')) {
 							x[i].style.display = "block";
-							gobelins.style.background = "#000";
 						} else {
 							x[i].style.display = "none";
-							gobelins.style.background = "#FFF";
 						}
 					}
 				}
