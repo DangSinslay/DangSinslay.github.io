@@ -288,8 +288,15 @@ footer {
 }
 
 footer a {
+        color: #000 !important;
         font-family: "Montserrat" !important;
         font-weight: 500;
+        transition: all .3s ease-in-out !important;
+}
+
+footer a:hover {
+        opacity: .6;
+        transition: all .3s ease-in-out !important;
 }
 
 footer #mail::before {
