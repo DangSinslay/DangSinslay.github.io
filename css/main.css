@@ -288,7 +288,7 @@ nav #intro:hover {
 }
 
 #subnav button {
-        background: #EBEBEB !important;
+        background: #F7F7F7 !important;
         border: transparent;
         border-radius: 4px !important;
         font-family: "Montserrat" !important;
@@ -296,6 +296,7 @@ nav #intro:hover {
         font-weight: 500;
         padding: 5px 10px 7px 10px !important;
         text-transform: lowercase;
+        margin-right: 10px !important;
 }
 
 #content #container {
