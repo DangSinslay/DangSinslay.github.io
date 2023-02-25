@@ -8,15 +8,12 @@
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
 				function myFunction() {
-					var x = document.getElementsByClassName("thumbnail.gobelins");
-					var y = document.getElementById("button_gobelins");
+					var x = document.getElementsByClassName("thumbnail");
 					for(var i=0; i < x.length; i++) {
-						if(x[i].style.display == "none") {
+						if(x[i].classList.contains('gobelins')) {
 							x[i].style.display = "block";
-							y.innerHTML = "Cacher les projets Gobelins"; 
 						} else {
-							x[i].style.display ="none";
-							y.innerHTML = "Montrer les projets Gobelins"; 
+							x[i].style.display = "none";
 						}
 					}
 				}
