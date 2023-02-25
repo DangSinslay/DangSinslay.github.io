@@ -158,7 +158,7 @@ nav #intro:hover {
         margin-left: -35px;
 }
 
-#content .thumbnail {
+#content li[class*="thumbnail"] {
         background-position: center !important;
         background-size: cover !important;
         border-radius: 7px;
@@ -171,7 +171,7 @@ nav #intro:hover {
         margin: 0 auto 120px auto !important;
 }
 
-#content .thumbnail #description {
+#content li[class*="thumbnail"] #description {
         background: rgba(0,0,0,.4);
         border-radius: 7px;
         color: #FFF !important;
@@ -189,17 +189,17 @@ nav #intro:hover {
         transition: all .3s ease-in-out;
 }
 
-#content .thumbnail #description:hover {
+#content li[class*="thumbnail"] #description:hover {
         opacity: 1;
         transition: all .3s ease-in-out;
 }
 
-#content .thumbnail #title {
+#content li[class*="thumbnail"] #title {
         text-align: left !important;
         margin-top: 5px !important;
 }
 
-#content .thumbnail #title > span {
+#content li[class*="thumbnail"] #title > span {
         color: #000 !important;
         font-family: "Montserrat" !important;
         font-size: 13pt !important;
@@ -212,12 +212,12 @@ nav #intro:hover {
         display: block;
 }
 
-#content .thumbnail #title > span:hover {
+#content li[class*="thumbnail"] #title > span:hover {
         overflow: visible;
         white-space: normal !important;
 }
 
-#content .thumbnail #title .tags {
+#content li[class*="thumbnail"] #title .tags {
         border-radius: 3px !important;
         color: #FFF !important;
         font-style: italic;
@@ -226,7 +226,7 @@ nav #intro:hover {
         display: list-item !important;
 }
 
-#content .thumbnail #title .tags span {
+#content li[class*="thumbnail"] #title .tags span {
         background: #f78fb3;
         border-radius: 3px !important;
         font-family: "Raleway" !important;
@@ -234,7 +234,7 @@ nav #intro:hover {
         padding: 4px 7px 7px 7px;
 }
 
-#content .thumbnail #title .tags span:nth-of-type(2) {
+#content li[class*="thumbnail"] #title .tags span:nth-of-type(2) {
         background: #63cdda !important;
 }
 
