@@ -6,7 +6,7 @@ title: Mes projets
 	<h1>{{ page.title }}</h1>
 	<ul>
 		{% for post in site.categories.projets limit:9 %}
-		<li id="thumbnail_projets" class="thumbnail" style="background-image: url({{ post.preview }})">
+		<li category="{{ post.category }}" class="thumbnail" style="background-image: url({{ post.preview }})">
 			<a href="{{ post.url }}" title="{{ post.title }}">
 				<div id="description">  
 					{{ post.description }}
