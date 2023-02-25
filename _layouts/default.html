@@ -7,10 +7,24 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
+				var x = document.getElementsByClassName("thumbnail");
 				function myFunction() {
-					var x = document.getElementsByClassName("thumbnail");
+					for(var i=0; i < x.length; i++) {
+						x[i].style.display = "block";
+					}
+				}
+				function myFunction2() {
 					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('gobelins')) {
+							x[i].style.display = "block";
+						} else {
+							x[i].style.display = "none";
+						}
+					}
+				}
+				function myFunction3() {
+					for(var i=0; i < x.length; i++) {
+						if(x[i].classList.contains('stage')) {
 							x[i].style.display = "block";
 						} else {
 							x[i].style.display = "none";
