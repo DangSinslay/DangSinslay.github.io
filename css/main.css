@@ -281,6 +281,44 @@ nav #intro:hover {
         font-weight: 500;
 }
 
+#content #container {
+        height: 300px !important;
+        width: 100%;
+        margin-top: 30px !important;
+        margin-bottom: 100px !important;
+}
+
+#content #container #photo {
+        width: 25% !important;
+        text-align: center !important;
+}
+
+#content #container #photo #photo_container {
+        background: no-repeat center url("https://i.imgur.com/HcxwqdU.jpg") !important;
+        background-size: cover !important;
+        border-radius: 50% !important;
+        box-shadow: 0px 1px 2px rgba(0,0,0,.3) !important;
+        height: 250px !important;
+        width: 250px;
+        display: inline-block !important;
+}
+
+#content #container #bio {
+        border-left: 1px dotted #BEBEBE !important;
+        padding-right: 25px !important;
+        padding-left: 25px !important;
+}
+
+#content #container #bio p {
+        font-family: "Raleway" !important;
+        font-weight: 500 !important;
+        line-height: 25px !important;
+}
+
+#content #container #bio strong {
+        font-family: "Raleway" !important;
+}
+
 footer {
         background: #F5F5F5;
         padding: 20px !important;
