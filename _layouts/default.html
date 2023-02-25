@@ -9,11 +9,14 @@
 			<script type="text/javascript">
 				function myFunction() {
 					var x = document.getElementsByClassName("thumbnail.gobelins");
+					var y = document.getElementById("button_gobelins");
 					for(var i=0; i < x.length; i++) {
 						if(x[i].style.display == "none") {
 							x[i].style.display = "block";
+							y.innerHTML = "Montrer les projets Gobelins"; 
 						} else {
 							x[i].style.display ="none";
+							y.innerHTML = "Cacher les projets Gobelins"; 
 						}
 					}
 				}
