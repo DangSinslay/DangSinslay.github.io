@@ -20,10 +20,10 @@
 					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('gobelins')) {
 							x[i].style.display = "block";
-							gobelins.style.opacity = ".5";
+							gobelins.style.background = "#000";
 						} else {
 							x[i].style.display = "none";
-							gobelins.style.opacity = "1";
+							gobelins.style.background = "#FFF";
 						}
 					}
 				}
@@ -31,10 +31,8 @@
 					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('stage')) {
 							x[i].style.display = "block";
-							stage.style.opacity = ".5";
 						} else {
 							x[i].style.display = "none";
-							stage.style.opacity = "1";
 						}
 					}
 				}
