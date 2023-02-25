@@ -173,7 +173,7 @@ nav #intro:hover {
 
 #content .thumbnail #description {
         background: rgba(0,0,0,.4);
-        border-radius: inherit;
+        border-radius: 7px;
         color: #FFF !important;
         font-family: "Raleway" !important;
         font-size: 17pt !important;
