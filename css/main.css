@@ -147,7 +147,6 @@ nav #intro:hover {
         font-family: "Montserrat" !important;
         font-size: 20pt !important;
         text-align: center !important;
-        margin-left: 21px !important;
 }
 
 #content ul {
@@ -279,6 +278,24 @@ nav #intro:hover {
         font-family: "Raleway" !important;
         font-style: italic !important;
         font-weight: 500;
+}
+
+#subnav {
+        border-bottom: 1px solid #EBEBEB !important;
+        padding: 0px 0px 20px 20px !important;
+        margin-top: 30px !important;
+        margin-bottom: 20px !important;
+}
+
+#subnav button {
+        background: #EBEBEB !important;
+        border: transparent;
+        border-radius: 4px !important;
+        font-family: "Montserrat" !important;
+        font-size: 12pt !important;
+        font-weight: 500;
+        padding: 5px 10px 7px 10px !important;
+        text-transform: lowercase;
 }
 
 #content #container {
