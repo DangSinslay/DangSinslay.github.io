@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville: 300,300italic,400,400italic,700,700italic, 900, 900italic|Montserrat: 100,200,300,400,500,600,700,800,900|Raleway: 100,200,300,400,500,600,700,800,900|Roboto: 300,400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville: 300,300italic,400,400italic,700,700italic, 900, 900italic|Montserrat: 100,200,300,400,500,600,700,800,900|Quicksand: 100,200,300,400,500,600,700,800,900|Raleway: 100,200,300,400,500,600,700,800,900|Roboto: 300,400,700,900');
 
 * {
         font-family: "Roboto", sans-serif !important;
@@ -131,7 +131,7 @@ nav #intro:hover {
 
 #content #preambule p {
         color: #000 !important;
-        font-family: "Raleway" !important;
+        font-family: "Quicksand" !important;
         font-size: 2vw !important;
         font-weight: bold !important;
         line-height: 38px !important;
@@ -327,18 +327,32 @@ nav #intro:hover {
 
 #content #container #bio {
         border-left: 1px dotted #BEBEBE !important;
-        padding-right: 25px !important;
+        padding-right: 50px !important;
         padding-left: 25px !important;
+        text-align: justify;
 }
 
 #content #container #bio p {
-        font-family: "Raleway" !important;
+        font-family: "Quicksand" !important;
+        font-size: 13pt;
         font-weight: 500 !important;
         line-height: 25px !important;
 }
 
 #content #container #bio strong {
         font-family: "Raleway" !important;
+}
+
+#content #post_container {
+        padding: 5px 100px !important;
+}
+
+#content #post_container p {
+        font-family: "Quicksand" !important;
+        font-size: 14pt !important;
+        font-weight: 500;
+        line-height: 25px !important;
+        text-align: justify;
 }
 
 footer {
