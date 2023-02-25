@@ -285,6 +285,10 @@ footer {
         background: #F5F5F5;
         padding: 20px !important;
         text-align: center !important;
+        position: absolute !important;
+        right: 0px !important;
+        bottom: 0px !important;
+        left: 0px !important
 }
 
 footer a {
