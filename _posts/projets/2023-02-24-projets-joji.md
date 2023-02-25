@@ -15,5 +15,6 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 
 À travers l’édition de mon objet éditorial, je souhaite donc mettre en avant la souffrance et la déchirure traversée par le protagoniste, cette tension entre le désir et la crainte l’obligeant à trouver le juste équilibre dans la douleur ainsi que sa nostalgie doublée de regrets. Une attention particulière est accordée à ce dit “you” dans la chanson, cette personne avec qui il a partagé de nombreux souvenirs et qu’il regrette.
 
-<img alt="Expérimentations de trames, de couleurs et début de chemin de fer" src="https://freight.cargo.site/w/1079/q/94/i/fe95fb3f55b5ce747626584926864b5d86ed80bf047e9aaac8d788e6d5958081/1677075739716.png">
+<img src="https://i.imgur.com/NfXF3p8.png">
+<em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 
