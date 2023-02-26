@@ -7,6 +7,7 @@ category: projets
 category2: gobelins
 description: Reproduction d’une montre sur Illustrator
 data1 : Janvier 2023
+data2 : Illustrator
 blog: blogprojets
 ---
 
