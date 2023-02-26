@@ -476,9 +476,15 @@ nav #intro:hover {
 
 #content #post_container img {
         border: 1px solid #D5D5D5 !important;
-        width: 70% !important;
-        display: block !important;
+        width: 70%;
+        display: block;
         margin: 0 auto 5px auto !important;
+}
+
+#content #post_container figure img {
+        width: 49% !important;
+        display: table-cell !important;
+        vertical-align: middle !important;
 }
 
 footer {
