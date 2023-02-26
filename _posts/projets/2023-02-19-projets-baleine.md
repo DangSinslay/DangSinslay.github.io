@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baleine automate"
-preview: /css/image/gif2.gif
+preview: /css/image/image_projets/image_projet_baleine/gif.gif
 date: 2023-02-19
 category: projets 
 category2: gobelins
