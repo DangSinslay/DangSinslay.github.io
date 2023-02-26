@@ -8,8 +8,12 @@ title: Carnet d'architecture
 	<div id ="gallery">
 		{% for name in filenames %}
 		<div class="box">
-			<img src="{{ site.imagecarnetarchitectureurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+			<img onclick="Zoom(this)" src="{{ site.imagecarnetarchitectureurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
 		</div>
 		{% endfor %}
+	</div>
+	<div id="myModal" class="modal">
+		<img class="modal-content" id="img01">
+		<button onclick="ZoomOut()">close</button>
 	</div>
 </div>
