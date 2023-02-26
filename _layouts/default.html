@@ -54,11 +54,11 @@
 						e.target.classList.add('did-fade-in');
 					}
 				});
-				function Zoom(){
+				function Zoom(el){
 					var modal = document.getElementById('myModal');
 					var modalImg = document.getElementById("img01");
 					modal.style.display = "block";
-					modalImg.src = img.src;
+					modalImg.src = el.src;
 				}
 				function ZoomOut() {
 					var modal = document.getElementById('myModal');
