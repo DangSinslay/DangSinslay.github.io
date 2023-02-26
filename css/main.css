@@ -355,6 +355,11 @@ nav #intro:hover {
         text-align: justify;
 }
 
+#content #post_container em {
+        font-family: "Quicksand" !important;
+        font-size: 12pt !important;
+}
+
 footer {
         background: #F5F5F5;
         padding: 20px !important;
