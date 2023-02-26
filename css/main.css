@@ -485,6 +485,7 @@ nav #intro:hover {
         width: 49% !important;
         display: table-cell !important;
         vertical-align: middle !important;
+        margin-right: 2px !important;
 }
 
 footer {
