@@ -299,6 +299,7 @@ nav #intro:hover {
 
 #content #gallery {
         padding-left: 5px !important;
+        padding-top: 10px !important;
         width: 90%;
         display: grid;
         grid-template-columns: 45% 45%;
