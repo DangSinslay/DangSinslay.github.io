@@ -12,6 +12,6 @@ blog: blogprojets
 
 Reproduction d’une montre sur Illustrator.
 Ci-contre, le résultat final (à gauche) et son modèle (à droite) !
-Solarized dark             |  Solarized Ocean
+Résultat final           |  Modèle
 :-------------------------:|:-------------------------:
 ![](/css/image/image_projets/image_projet_swatch/img1.jpg)  |  ![](/css/image/image_projets/image_projet_swatch/img2.jpg)
