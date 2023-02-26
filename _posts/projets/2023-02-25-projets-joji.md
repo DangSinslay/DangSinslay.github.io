@@ -6,9 +6,10 @@ date: 2023-02-25
 category: projets
 category2: gobelins
 description: Création d'un objet éditorial à partir d'un clip musical
-data: Décembre 2022 - Février 2023
+data1: Décembre 2022 - Février 2023
 data2: 19,4 × 13 cm
 data3: Photoshop, Illustrator, InDesign
+data4: Carton, papiers divers, fils en laine
 blog: blogprojets
 ---
 
