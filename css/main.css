@@ -143,6 +143,13 @@ nav #intro:hover {
         font-weight: bold !important;
 }
 
+#mascot {
+        background: no-repeat center url("https://i.imgur.com/JvmHdux.png");
+        background-size: auto 100% !important;
+        height: 150px !important;
+        width: 100% !important;
+}
+
 #content h1 {
         font-family: "Montserrat" !important;
         font-size: 20pt !important;
@@ -363,18 +370,6 @@ nav #intro:hover {
 #content #post_container img {
         border: 1px solid #D5D5D5 !important;
         width: 100% !important;
-}
-
-#mascot {
-        background: no-repeat center url("https://i.imgur.com/6SuqRQ5.png");
-        background-size: auto 100% !important;
-        height: 200px !important;
-        width: 200px !important;
-        position: fixed !important;
-        right: 0px !important;
-        bottom: -60px !important;
-        opacity: .9 !important;
-        z-index: 999 !important;
 }
 
 footer {
