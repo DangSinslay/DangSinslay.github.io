@@ -360,6 +360,10 @@ nav #intro:hover {
         font-size: 12pt !important;
 }
 
+#content #post_container img {
+        width: 100% !important;
+}
+
 footer {
         background: #F5F5F5;
         padding: 20px !important;
