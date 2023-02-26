@@ -98,7 +98,7 @@ nav #intro:hover {
 }
 
 #banner {
-        background: no-repeat center top url("https://i.imgur.com/CsQjK1u.jpg") !important;
+        background: no-repeat center top url(/css/image/banner.jpg) !important;
         background-size: cover !important;
         height: 250px !important;
         width: 100%;
