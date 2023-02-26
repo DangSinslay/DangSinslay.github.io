@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flood"
-preview: /css/image/gif1.gif
+preview: /css/image/image_projets/image_projet_flood/gif.gif
 date: 2023-02-20
 category: projets 
 category2: gobelins
