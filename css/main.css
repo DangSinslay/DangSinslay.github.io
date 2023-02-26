@@ -255,14 +255,14 @@ nav #intro:hover {
 }
 
 #content .row {
-        background: no-repeat center 40% url("https://i.imgur.com/HtO73Fk.jpg") !important;
+        background: no-repeat center 40% url(/css/image/images_carnet/image_carnet_croquis/thumbnail.jpg) !important;
         background-size: cover !important;
         height: 350px !important;
         margin-top: 30px !important;
 }
 
 #content a:nth-of-type(2) .row {
-        background: no-repeat center url("https://i.imgur.com/udnSPK3.jpg") !important;
+        background: no-repeat center url(/css/image/images_carnet/image_carnet_architecture/thumbnail.jpg) !important;
         background-size: cover !important;
         margin-top: 20px !important;
         margin-bottom: 40px !important;
@@ -333,7 +333,7 @@ nav #intro:hover {
 }
 
 #content #container #photo #photo_container {
-        background: no-repeat center url("https://i.imgur.com/HcxwqdU.jpg") !important;
+        background: no-repeat center url(/css/image/avatar.jpg) !important;
         background-size: cover !important;
         border-radius: 50% !important;
         box-shadow: 0px 1px 2px rgba(0,0,0,.3) !important;
