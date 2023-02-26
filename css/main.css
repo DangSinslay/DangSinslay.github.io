@@ -478,7 +478,7 @@ nav #intro:hover {
         border: 1px solid #D5D5D5 !important;
         width: 70%;
         display: block;
-        margin: 0 auto 5px auto !important;
+        margin: 0 auto 5px auto;
 }
 
 #content #post_container figure img {
