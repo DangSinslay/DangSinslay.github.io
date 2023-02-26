@@ -365,6 +365,8 @@ nav #intro:hover {
 #content #post_container em {
         font-family: "Quicksand" !important;
         font-size: 12pt !important;
+        display: block;
+        text-align: center !important;
 }
 
 #content #post_container img {
