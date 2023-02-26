@@ -56,10 +56,9 @@
 				});
 				function Zoom(){
 					var modal = document.getElementById('myModal');
-					var img = document.getElementsByClassName('img-gallery');
 					var modalImg = document.getElementById("img01");
 					modal.style.display = "block";
-					modalImg.src = img[0].src;
+					modalImg.src = this.src;
 				}
 				function ZoomOut() {
 					var modal = document.getElementById('myModal');
