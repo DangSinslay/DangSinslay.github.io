@@ -365,6 +365,18 @@ nav #intro:hover {
         width: 100% !important;
 }
 
+#mascot {
+        background: no-repeat center url("https://i.imgur.com/6SuqRQ5.png");
+        background-size: auto 100% !important;
+        height: 200px !important;
+        width: 200px !important;
+        position: fixed !important;
+        right: 0px !important;
+        bottom: -60px !important;
+        opacity: .9 !important;
+        z-index: 999 !important;
+}
+
 footer {
         background: #F5F5F5;
         padding: 20px !important;
