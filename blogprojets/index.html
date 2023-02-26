@@ -12,7 +12,7 @@ title: Mes projets
 		<button id="button_personnels" onclick="myFunction5()">Projets Personnels</button>
 	</div>
 	<ul>
-		{% for post in site.categories.projets limit:20 %}
+		{% for post in site.categories.projets %}
 		<li class="thumbnail {{ post.category2 }}" style="background-image: url({{ post.preview }})">
 			<a href="{{ post.url }}" title="{{ post.title }}">
 				<div id="description">  
