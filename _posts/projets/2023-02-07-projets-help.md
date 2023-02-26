@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H E L P !"
+title: "HELP!"
 preview: https://i.imgur.com/glRyPPq.jpg
 date: 2023-02-07
 category: projets 
