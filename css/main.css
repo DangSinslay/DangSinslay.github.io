@@ -361,6 +361,7 @@ nav #intro:hover {
 }
 
 #content #post_container img {
+        border: 1px solid #D5D5D5 !important;
         width: 100% !important;
 }
 
