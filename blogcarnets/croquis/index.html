@@ -8,7 +8,7 @@ title: Carnet de croquis
 	<div id ="gallery">
 		{% for name in filenames %}
 		<div class="box">
-			<img src="{{ site.imagecarnetcroquisurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+			<img onclick="Zoom()" src="{{ site.imagecarnetcroquisurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
 		</div>
 		{% endfor %}
 	<div id="myModal" class="modal">
