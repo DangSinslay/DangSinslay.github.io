@@ -36,7 +36,7 @@ Voici différentes versions du texte traduit en français que nous modifions de 
 <img src="/css/image/image_projets/image_projet_knife/img6.jpg">
 </figure>
 <figure>
-<img src="/css/image/image_projets/image_projet_knife/img7.jpg">
+<img src="/css/image/image_projets/image_projet_knife/img7.JPG">
 <img src="/css/image/image_projets/image_projet_knife/img8.jpg">
 </figure>
 <em>Texte final et design de billet en l’espace d’une heure pour déterminer le montant/la cagnotte du nouveau livre</em>
