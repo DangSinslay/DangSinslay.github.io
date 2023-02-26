@@ -54,11 +54,10 @@
 						e.target.classList.add('did-fade-in');
 					}
 				});
-				// Get the modal
-				var modal = document.getElementById('myModal');
-				var img = document.getElementsByClassName('img-gallery');
-				var modalImg = document.getElementById("img01");
 				function Zoom(){
+					var modal = document.getElementById('myModal');
+					var img = document.getElementsByClassName('img-gallery');
+					var modalImg = document.getElementById("img01");
 					modal.style.display = "block";
 					modalImg.src = img[0].src;
 				}
