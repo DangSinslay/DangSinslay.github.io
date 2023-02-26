@@ -38,7 +38,7 @@ nav {
 }
 
 nav #logo {
-        background: no-repeat center url("https://i.imgur.com/0d1jt0d.png") !important;
+        background: no-repeat center url(/css/image/logo.jpg) !important;
         background-size: auto 100% !important;
         padding: 6px 43px !important;
         position: relative;
@@ -405,7 +405,7 @@ footer a:hover {
 }
 
 footer #mail::before {
-        background: no-repeat center url("https://i.imgur.com/HbiGWSC.png") !important;
+        background: no-repeat center url(/css/image/icon_mail.jpg) !important;
         background-size: 100% auto !important;
         color: transparent !important;
         content: "" !important;
@@ -416,7 +416,7 @@ footer #mail::before {
 }
 
 footer #instagram::before {
-        background: no-repeat center url("https://i.imgur.com/GIPeIT0.png") !important;
+        background: no-repeat center url(/css/image/icon_instagram.jpg) !important;
         background-size: 100% auto !important;
         color: transparent !important;
         content: "" !important;
