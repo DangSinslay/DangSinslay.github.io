@@ -2,3 +2,4 @@ name: DANG
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 imagecarnetcroquisurl: "/css/image/image_carnets/image_carnet_croquis/"
+imagecarnetarchitectureurl: "/css/image/image_carnets/image_carnet_architecture/"
