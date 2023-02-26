@@ -8,7 +8,7 @@ category2: gobelins
 description: Création d'un objet éditorial à partir d'un clip musical
 data: Décembre 2022 - Février 2023
 data2: 19,4 × 13 cm
-data3: Logiciels : Photoshop, Illustrator, InDesign
+data3: Photoshop, Illustrator, InDesign
 blog: blogprojets
 ---
 
