@@ -193,6 +193,7 @@ nav #intro:hover {
         text-align: center !important;
         margin: 10px !important;
         margin: 0 auto 120px auto !important;
+        animation: fade-in 1s;
 }
 
 #content li[class*="thumbnail"] #description {
