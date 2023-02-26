@@ -255,14 +255,14 @@ nav #intro:hover {
 }
 
 #content .row {
-        background: no-repeat center 40% url(/css/image/images_carnet/image_carnet_croquis/thumbnail.jpg) !important;
+        background: no-repeat center 40% url(/css/image/image_carnets/image_carnet_croquis/thumbnail.jpg) !important;
         background-size: cover !important;
         height: 350px !important;
         margin-top: 30px !important;
 }
 
 #content a:nth-of-type(2) .row {
-        background: no-repeat center url(/css/image/images_carnet/image_carnet_architecture/thumbnail.jpg) !important;
+        background: no-repeat center url(/css/image/image_carnets/image_carnet_architecture/thumbnail.jpg) !important;
         background-size: cover !important;
         margin-top: 20px !important;
         margin-bottom: 40px !important;
