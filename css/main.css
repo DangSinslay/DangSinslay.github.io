@@ -36,7 +36,7 @@
 .modal-content {
         margin: auto;
         display: block;
-        width: 75%;
+        height: 100%;
         -webkit-animation-name: zoom;
         -webkit-animation-duration: 0.6s;
         animation-name: zoom;
@@ -54,7 +54,7 @@
         opacity: .5 !important;
         position: fixed !important;
         top: 20px !important;
-        right: 40px !important;
+        right: 20px !important;
 }
 
 * {
