@@ -16,7 +16,7 @@ Ce projet concerne les premières et deuxièmes années de DN MADe graphisme.
 Le travail des premières années est la création de supports visuels et textuels sur quatre jours par binôme pour l’édition du nouveau livre par les deuxièmes années. 
 
 <figure>
-<img src="/css/image/image_projets/image_projet_knife/img1.jpg">
+<img src="/css/image/image_projets/image_projet_knife/img1.JPG">
 <img src="/css/image/image_projets/image_projet_knife/img2.jpg">
 </figure>
 
