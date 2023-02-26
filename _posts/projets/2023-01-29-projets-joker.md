@@ -2,7 +2,7 @@
 layout: post
 title: "Joker"
 preview: https://i.imgur.com/PDTtYtm.jpg
-date: 2023-01-30
+date: 2023-01-29
 category: projets 
 category2: personnel
 description: Portrait du Joker incarné par Joaquin Phoenix
