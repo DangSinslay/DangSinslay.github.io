@@ -297,6 +297,33 @@ nav #intro:hover {
         font-weight: 500;
 }
 
+#content #gallery {
+        padding-left: 5px !important;
+        width: 90%;
+        display: grid;
+        grid-template-columns: 45% 45%;
+        justify-content: center;
+        margin: auto;
+}
+
+#content #gallery .box {
+        border-bottom: 1px solid #EBEBEB !important;
+        height: 450px !important;
+        padding-right: 10px !important;
+        padding-bottom: 25px !important;
+        width: 100%;
+        display: flex !important;
+        margin-bottom: 25px !important;
+}
+
+#content #gallery .box .img-gallery {
+        height: inherit !important;
+        width: 100%;
+        object-fit: contain;
+        transition: all 0.3s ease-in-out;
+        margin-right: 10px !important;
+}
+
 #subnav {
         border-bottom: 1px solid #EBEBEB !important;
         padding: 0px 0px 20px 20px !important;
