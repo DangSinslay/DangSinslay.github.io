@@ -33,6 +33,15 @@
 				}
 				function myFunction4() {
 					for(var i=0; i < x.length; i++) {
+						if(x[i].classList.contains('bac')) {
+							x[i].style.display = "block";
+						} else {
+							x[i].style.display = "none";
+						}
+					}
+				}
+				function myFunction5() {
+					for(var i=0; i < x.length; i++) {
 						if(x[i].classList.contains('personnel')) {
 							x[i].style.display = "block";
 						} else {
