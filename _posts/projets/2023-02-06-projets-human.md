@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "R U HUMAN?"
-preview: https://i.imgur.com/lPCjThC.png
+preview: https://i.imgur.com/TFahULz.jpg
 date: 2023-02-06
 category: projets 
 category2: lycée
