@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "H E L P !"
-preview: https://i.imgur.com/YVoFjYk.jpg
+preview: https://i.imgur.com/glRyPPq.jpg
 date: 2023-02-07
 category: projets 
 category2: lycée
-description: Peinture illustrant le conflit intérieur
+description: Conflit intérieur et rapport à soi
 blog: blogprojets
 ---
 
