@@ -57,6 +57,7 @@ Dans l’optique d’une mise en abyme, nous gravons ce logo sur un des portefeu
 <img src="/css/image/image_projets/image_projet_knife/img13.jpg">
 <em>Objet final</em>
 
+<figure>
 <img src="/css/image/image_projets/image_projet_knife/img14.jpg">
 <img src="/css/image/image_projets/image_projet_knife/img15.JPG">
 </figure>
