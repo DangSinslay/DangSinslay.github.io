@@ -440,6 +440,19 @@ nav #intro:hover {
         font-family: "Quicksand" !important;
 }
 
+#content #data_container {
+        color: #777;
+        font-style: italic;
+        text-align: center;
+}
+
+#content #data_container span {
+        font-family: "Quicksand" !important;
+        font-weight: 600 !important;
+        display: block;
+        line-height: 25px !important;
+}
+
 #content #post_container {
         padding: 5px 100px !important;
 }
