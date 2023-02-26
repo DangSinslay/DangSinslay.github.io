@@ -57,6 +57,10 @@
         right: 20px !important;
 }
 
+#myModal button:hover {
+        opacity: .35 !important;
+}
+
 * {
         font-family: "Roboto", sans-serif !important;
 }
