@@ -14,7 +14,6 @@ blog: blogprojets
 
 Pour ce projet, il nous était demandé de réaliser une chimère.
 La légende chinoise raconte qu’une carpe koï remontant à contre-courant le fleuve Jaune s’envolerait vers le ciel en se transformant en dragon.
-
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img1.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img2.jpg"></div>
