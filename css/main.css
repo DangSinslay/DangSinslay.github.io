@@ -125,12 +125,12 @@ nav ul .link_blog {
 }
 
 nav ul .link_blog:nth-child(1):hover {
-        color: #ffa801 !important;
+        color: #e84393 !important;
         transition: all .3s ease-in-out;
 }
 
 nav ul .link_blog:nth-child(2):hover {
-        color: #e84393 !important;
+        color: #ffa801 !important;
         transition: all .3s ease-in-out !important;
 }
 
