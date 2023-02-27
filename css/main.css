@@ -502,7 +502,7 @@ nav #intro:hover {
 #content #post_container .image_container div img {
         height: 100% !important;
         width: 100% !important;
-        object-fit: contain !important;
+        object-fit: cover !important;
 }
 
 footer {
