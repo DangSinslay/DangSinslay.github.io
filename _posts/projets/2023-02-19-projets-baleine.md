@@ -43,8 +43,8 @@ Avec ma binôme Oanell Audry, nous avons choisi de créer un automate, sous la f
 Une fois toutes les parties construites, nous les relions grâce à un bracelet torsadé en plastique coupé. De cette façon, les éléments de la baleine peuvent être mobiles tout comme la baleine elle-même. L’étape suivante est de construire le mécanisme se lequel repose l’automate ainsi que la boîte lui servant de support. Des attaches parisiennes sont fixées au niveau des parties où seront attachés des fils de fer qui, eux-même reliés au mécanisme actionné par une manivelle, mettront la baleine en mouvement.
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img12.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif1.gif"></div>
+<div style="width: 37% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img12.jpg"></div>
+<div style="transform: rotate(-90deg); width: 10% !important;"><img onclick="Zoom(this)" style="width: 40% !important;" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif1.gif"></div>
 </div>
 
 <img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif2.gif">
@@ -60,7 +60,7 @@ Une fois toutes les parties construites, nous les relions grâce à un bracelet 
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img14.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif6.gif"></div>
+<div><img style="object-fit: contain !important;" onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif6.gif"></div>
 <em>Mécanisme final : nage beaucoup plus fluide</em>
 </div>
 
@@ -76,7 +76,9 @@ Une fois toutes les parties construites, nous les relions grâce à un bracelet 
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img18.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img19.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img20.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif7.gif"></div>
-<em>Entre l’objet décoratif et le jouet, voici la baleine automate qui, grâce à un curieux mécanisme, nage paisiblement dans l’eau ondulante !</em>
 </div>
+
+Entre l’objet décoratif et le jouet, voici la baleine automate qui, grâce à un curieux mécanisme, nage paisiblement dans l’eau ondulante !
+
+<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif7.gif">
 
