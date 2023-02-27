@@ -23,19 +23,19 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 <em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_2.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_4.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_5.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_9.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_10.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2_11.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_2.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_4.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_5.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_9.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_10.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_11.jpg"></div>
 <em>Début des recherches et expérimentations</em>
 </div>
 
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img3.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img3_1.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img3_2.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3_1.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3_2.jpg"></div>
 <em>Chemin de fer de l’objet éditorial (version 2)</em>
 </div>
 
@@ -45,8 +45,8 @@ Néanmoins, après discussion, j’ai réalisé que mon idée s’éloignait de 
 
 Mon objet éditorial est donc une enveloppe hybride : une fois ouverte, on y découvre un livret intégré ainsi que d’autres éléments inattendus qui viennent surprendre le lecteur !
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img4.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img5.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img4.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img5.jpg"></div>
 </div>
 
 En ce qui concerne le travail des images, j’ai choisi de me concentrer sur trois trames en particulier sur Photoshop : la mezzo tinto qui donne cet aspect granuleux qui m’intéressait, la trame de demi-teinte ainsi que la bitmap 50% seuil. Au départ, mes images travaillées étaient très colorées et n’avaient pas une bonne cohésion entre elles. J’ai donc décidé de limiter les couleurs dans mes images en misant énormément sur le noir et blanc, avec certaines touches de rouge qui apportent du dynamisme et secouent l’histoire.
@@ -54,12 +54,12 @@ En ce qui concerne le travail des images, j’ai choisi de me concentrer sur tro
 Cette couleur est porteuse de nombreuses symboliques dans mon projet : le rouge est à la fois l’amour, le bouleversement, le choc et la souffrance. Mais surtout, le rouge symbolise la présence et l’influence de cette autre personne sur le protagoniste.
 
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_1.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_4.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_5.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_7.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_9.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6_12.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_1.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_4.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_5.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_7.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_9.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_12.jpg"></div>
 <em>Extraits de pages pré-print</em>
 </div>
 
@@ -67,14 +67,14 @@ Pour l’impression, j’ai utilisé divers papiers bruns plus ou moins épais e
 
 Voici quelques extraits de mon objet éditorial :
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7_2.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7_3.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7_4.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7_5.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7_7.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_2.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_3.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_4.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_5.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_7.jpg"></div>
 </div>
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img8.jpg"></div>
+<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img8.jpg"></div>
 
 
 Enfin, mon intention principale derrière ce projet était de créer un objet éditorial capable de susciter l’empathie, la compréhension ou encore l’identification du lecteur envers le protagoniste du clip musical. En effet, son chagrin pourrait être celle de quiconque. J’ai donc misé sur le carton en base de mon objet, un matériau omniprésent et accessible à tous : nous le retrouvons dans les rues, les poubelles, en base du packaging de nos courses au supermarché, de nos achats en ligne...
