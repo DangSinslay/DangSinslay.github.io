@@ -19,8 +19,8 @@ Création d’un alphabet graphique personnel et réalisation d’affiches diver
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img2.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img3.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img4.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img5.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img4.jpg"></div>
 <em>Idée finale : Dessiner des lettres capitales, les délimiter et récupérer chaque partie ne faisant pas partie de la lettre pour en faire mon nouvel alphabet</em>
 </div>
 
