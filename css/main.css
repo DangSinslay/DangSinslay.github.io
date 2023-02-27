@@ -494,9 +494,8 @@ nav #intro:hover {
         padding: 0 4px;
 }
 
-#content #content #post_container img {
+#content #post_container > div:nth-of-type(1) div img {
         width: 100% !important;
-        margin: auto !important;
 }
 
 footer {
