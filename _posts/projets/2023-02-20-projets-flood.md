@@ -35,9 +35,7 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
 <div class="image_container">
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img2.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img3.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img4.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img5.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img6.jpg"></div>
   <em>Réalisation de la base du masque avec du papier mâché</em>
 </div>
 
