@@ -463,12 +463,17 @@ nav #intro:hover {
         padding: 5px 100px !important;
 }
 
-#content #post_container p {
+#content #post_container p,
+#content #post_container li {
         font-family: "Quicksand" !important;
         font-size: 14pt !important;
         font-weight: 500;
         line-height: 25px !important;
         text-align: justify;
+}
+
+#content #post_container li {
+        margin-bottom: 10px !important;
 }
 
 #content #post_container em {
