@@ -23,7 +23,7 @@ Cliquer sur ce <a href="https://drive.google.com/file/d/1C4X4GDGsDCnYkUIYaKjSxDD
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_tribu/img1_11.jpg"></div>
 </div>
 
-<div class="image_container">
+<div style="margin-top: 30px !important;" class="image_container">
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_tribu/img2.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_tribu/img3.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_tribu/img4.jpg"></div>
