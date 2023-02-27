@@ -21,7 +21,7 @@ La légende chinoise raconte qu’une carpe koï remontant à contre-courant le 
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img4.jpg"></div>
 </div>
 
-<div class="image_container">
+<div style="margin-top: 30px !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img5.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img6.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img7.jpg"></div>
