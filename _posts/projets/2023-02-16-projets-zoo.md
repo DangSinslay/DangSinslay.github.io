@@ -11,8 +11,8 @@ blog: blogprojets
 ---
 
 Un projet en équipe de 4 élèves portant sur :
-+ La création d’une typographie modulaire amorcée par l’attribution d’un pangramme puis réalisée à partir de normographes fabriqués dont les formes sont elles-même inspirées d’une famille typographique attribuée.
-+ Mise en forme du pangramme attribué par la création d’une affiche réalisée numériquement puis manuellement sur un format 80 × 120 cm à l’aide des normographes sans contrainte plastique particulière.
+1. La création d’une typographie modulaire amorcée par l’attribution d’un pangramme puis réalisée à partir de normographes fabriqués dont les formes sont elles-même inspirées d’une famille typographique attribuée.
+2. Mise en forme du pangramme attribué par la création d’une affiche réalisée numériquement puis manuellement sur un format 80 × 120 cm à l’aide des normographes sans contrainte plastique particulière.
 
 Pangramme attribué :
 "<i>Hier, au zoo, j’ai vu dix guépards, cinq zébus, un yak et le wapiti fumer.</i>"
