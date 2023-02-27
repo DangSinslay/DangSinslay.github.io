@@ -54,8 +54,8 @@ En ce qui concerne le travail des images, j’ai choisi de me concentrer sur tro
 Cette couleur est porteuse de nombreuses symboliques dans mon projet : le rouge est à la fois l’amour, le bouleversement, le choc et la souffrance. Mais surtout, le rouge symbolise la présence et l’influence de cette autre personne sur le protagoniste.
 
 <div class="image_container">
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_1.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_12.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_4.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_5.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_7.jpg"></div>
