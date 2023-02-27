@@ -481,11 +481,25 @@ nav #intro:hover {
         margin: 0 auto 5px auto;
 }
 
+#content #post_container figure {
+        display: flex !important;
+        width: 100% !important;
+}
+
+#content #post_container figure div {
+        background: #F9F9F9 !important;
+        box-shadow: 0px 1px 2px rgba(0,0,0,.2) !important;
+        height: 350px !important;
+        width: 300px !important;
+        margin-right: 10px !important;
+        overflow: hidden !important;
+        display: flex !important;
+        align-items: center !important;
+}
+
 #content #post_container figure img {
-        width: 49% !important;
-        display: table-cell !important;
-        vertical-align: middle !important;
-        margin-right: 2px !important;
+        height: auto !important;
+        width: 100% !important;
 }
 
 footer {
