@@ -498,6 +498,7 @@ nav #intro:hover {
 }
 
 #content #post_container figure img {
+        border: none !important;
         height: auto !important;
         width: 100% !important;
 }
