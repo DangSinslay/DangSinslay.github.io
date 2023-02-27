@@ -63,6 +63,7 @@ Pangramme attribué :
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img23.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img24.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/gif.gif"></div>
+<div></div>
 <em>Construction de normographes sur des plaques de polyester de 2 millimètres d’épaisseur, découpés à la graveuse laser à partir de fichiers Illustrator avec le contour des formes</em>
 </div>
 
