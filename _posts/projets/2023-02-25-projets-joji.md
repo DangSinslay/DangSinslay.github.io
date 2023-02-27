@@ -74,7 +74,7 @@ Voici quelques extraits de mon objet éditorial :
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_5.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_7.jpg"></div>
 </div>
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img8.jpg"></div>
+<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img8.jpg">
 
 
 Enfin, mon intention principale derrière ce projet était de créer un objet éditorial capable de susciter l’empathie, la compréhension ou encore l’identification du lecteur envers le protagoniste du clip musical. En effet, son chagrin pourrait être celle de quiconque. J’ai donc misé sur le carton en base de mon objet, un matériau omniprésent et accessible à tous : nous le retrouvons dans les rues, les poubelles, en base du packaging de nos courses au supermarché, de nos achats en ligne...
