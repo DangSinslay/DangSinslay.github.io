@@ -40,9 +40,9 @@ Voici différentes versions du texte traduit en français que nous modifions de 
 </div>
 
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img9.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img10.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img11.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img9.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img10.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img11.jpg"></div>
 <em>Réalisation d’un objet en lien avec l’histoire travaillée
 En combinant des éléments clés de notre histoire, nous créons le logo d’une portefeuille couteau suisse sur lequel est inscrit le dessin d’un billet singapourien (Illustrator et Photoshop)</em>
 </div>
