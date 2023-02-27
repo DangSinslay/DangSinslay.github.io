@@ -31,7 +31,7 @@ Création d’un alphabet graphique personnel et réalisation d’affiches diver
 <em>Alphabet graphique complet, avec les formes découpées dans du papier peint à l’acrylique, tailles et nombre de formes par lettre divers</em>
 
 <div class="image_container">
-<div><img style="width: 60% !important;" onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img7.jpg"></div>
-<div><img style="width: 60% !important;" onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img8.jpg"></div>
+<div style="width: 60% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img7.jpg"></div>
+<div style="width: 60% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alphabet/img8.jpg"></div>
 <em>Conception de dix affiches à partir de l’alphabet graphique à destination de clients virtuels</em>
 </div>
