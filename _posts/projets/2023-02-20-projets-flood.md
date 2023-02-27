@@ -24,7 +24,7 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_2.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_3.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_4.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_5.jpg"></div>>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_5.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_6.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_7.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_8.jpg"></div>
