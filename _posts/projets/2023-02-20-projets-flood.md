@@ -29,7 +29,6 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_7.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_8.jpg"></div>
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_9.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_10.jpg"></div>
   <em>Planches de recherches</em>
 </div>
 
