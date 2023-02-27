@@ -19,7 +19,7 @@ J’ai joué sur le choix des typographies et la mise en page afin d’organiser
 
 Je me suis beaucoup amusée à faire cette mission. De même, j’étais ravie de m’occuper d’une mission seule et dans son entièreté et de savoir que ma production avait été utilisée par l’équipe, qui a par ailleurs sélectionné la version sur fond bleu (image à gauche) !
 
-<div>
+<div class="image_gallery">
 <div><img src="/css/image/image_projets/image_projet_bluespirit/img1.jpg"></div>
 <div><img src="/css/image/image_projets/image_projet_bluespirit/img2.jpg"></div>
 </div>
