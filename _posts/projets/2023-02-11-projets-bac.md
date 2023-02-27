@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Projet Bac"
-preview: https://i.imgur.com/kdO7SHS.jpg
+preview: /css/image/image_projets/image_projet_bac/thumbnail.jpg
 date: 2023-02-11
 category: projets 
 category2: lycée
