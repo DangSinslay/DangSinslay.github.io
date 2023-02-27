@@ -14,5 +14,6 @@ blog: blogprojets
 Reproduction d’une montre sur Illustrator.
 Ci-contre, le résultat final (à gauche) et son modèle (à droite) !
 <figure>
-<img src="/css/image/image_projets/image_projet_swatch/img1.jpg"> <img src="/css/image/image_projets/image_projet_swatch/img2.jpg">
+  <div><img src="/css/image/image_projets/image_projet_swatch/img1.jpg"></div>
+  <div><img src="/css/image/image_projets/image_projet_swatch/img2.jpg"></div>
 </figure>
