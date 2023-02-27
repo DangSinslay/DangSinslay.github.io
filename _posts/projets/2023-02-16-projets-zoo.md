@@ -29,7 +29,7 @@ Pangramme attribué :
 <em>Approche par l’illustration puis travail de simplification</em>
 
 <div class="image_container">
-<div><img style="width: 100% !important;" onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img6.jpg"></div>
+<div style="width: 100% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img6.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img7.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img8.jpg"></div>
 <em>Ajout d’une contrainte, les garaldes, qui devaient constituer la base de la typographie que nous devions créer, elle-même inspirée du pangramme attribué</em>
@@ -39,7 +39,7 @@ Pangramme attribué :
 <em>Expérimentations de textures à l’encre de chine pour représenter le mouvement, les poils et ajouter du dynamisme</em>
 
 <div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img10/jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img10.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img11.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img12.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img13.jpg"></div>
@@ -62,7 +62,7 @@ Pangramme attribué :
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img22.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img23.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img24.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_parisberlin/gif.gif"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/gif.gif"></div>
 <em>Construction de normographes sur des plaques de polyester de 2 millimètres d’épaisseur, découpés à la graveuse laser à partir de fichiers Illustrator avec le contour des formes</em>
 </div>
 
