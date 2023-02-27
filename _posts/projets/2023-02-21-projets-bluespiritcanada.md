@@ -20,6 +20,9 @@ Cet exercice m’a permis de mettre en application mes compétences acquises en 
 <figure>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img1.jpg"></div>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img2.jpg"></div>
+</figure>
+
+<figure>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img3.jpg"></div>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img4.jpg"></div>
 </figure>
