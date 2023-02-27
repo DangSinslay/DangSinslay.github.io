@@ -463,8 +463,9 @@ nav #intro:hover {
         padding: 5px 100px !important;
 }
 
-#content #post_container p,
-#content #post_container li {
+#content #post_container i,
+#content #post_container li,
+#content #post_container p {
         font-family: "Quicksand" !important;
         font-size: 14pt !important;
         font-weight: 500;
