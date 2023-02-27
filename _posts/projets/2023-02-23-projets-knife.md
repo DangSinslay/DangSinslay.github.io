@@ -29,13 +29,11 @@ Voici différentes versions du texte traduit en français que nous modifions de 
 <figure>
 <div><img src="/css/image/image_projets/image_projet_knife/img3.jpg"></div>
 <div><img src="/css/image/image_projets/image_projet_knife/img4.jpg"></div>
+<div><img src="/css/image/image_projets/image_projet_knife/img5.jpg"></div>
 </figure>
 
 <figure>
-<div><img src="/css/image/image_projets/image_projet_knife/img5.jpg"></div>
 <div><img src="/css/image/image_projets/image_projet_knife/img7.JPG"></div>
-</figure>
-<figure>
 <div><img src="/css/image/image_projets/image_projet_knife/img6.jpg"></div>
 <div><img src="/css/image/image_projets/image_projet_knife/img8.jpg"></div>
 </figure>
