@@ -17,14 +17,12 @@ Ici, je me suis intéressée aux dix ans de Blue Spirit Canada. Comme il s’agi
 
 Cet exercice m’a permis de mettre en application mes compétences acquises en cours de publication assistée par ordinateur (PAO) à l’école dans un cadre professionnel !
 
-<div>
+<div class="image_container"> 
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img1.jpg"></div>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img2.jpg"></div>
-</div>
-
-<div>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img3.jpg"></div>
   <div><img src="/css/image/image_projets/image_projet_bluespiritcanada/img4.jpg"></div>
 </div>
+
 
 
