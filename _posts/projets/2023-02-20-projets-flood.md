@@ -78,12 +78,12 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
 <em>FLOOD, 2022 - Quand le cerveau est en effervescence et des vagues de pensées que tu ne peux plus contenir jaillissent telle une puissante inondation</em>
 
 <div class="image_container">
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img21.jpg"></div>
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img22.jpg"></div>
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img23.jpg"></div>
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img24.jpg"></div>
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img25.jpg"></div>
-  <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img26.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img21.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img22.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img23.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img24.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img25.jpg"></div>
+  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img26.jpg"></div>
 </div>
 
 Pour plus de détails, télécharger ma <a href="https://drive.google.com/file/d/11_2Sk0mpblfXCeS3Dh59u4NcO95M80P0/view?usp=share_link">note d’intention</a> !
