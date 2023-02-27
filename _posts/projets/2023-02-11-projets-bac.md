@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projet Bac"
+title: "Projets Bac"
 preview: /css/image/image_projets/image_projet_bac/thumbnail.jpg
 date: 2023-02-11
 category: projets 
