@@ -480,23 +480,29 @@ nav #intro:hover {
         margin: 0 auto 5px auto;
 }
 
-#content #post_container > div:nth-of-type(1) {
-        display: flex;
-        flex-wrap: wrap;
-        padding: 0 4px;
-        text-align: center !important;
-}
-
-#content #post_container > div:nth-of-type(1) div {
-        flex: 25%;
-        max-width: 50% !important;
-        padding: 0 4px;
-        align-items: center !important;
+#content #post_container .image_container {
         display: flex !important;
+        flex-wrap: wrap !important;
 }
 
-#content #post_container > div:nth-of-type(1) div img {
+#content #post_container .image_container div {
+        width: 45%;
+        box-sizing: border-box;
+        flex-grow: 1;
+        justify-content: space-between;
+        min-height: 120px;
+        text-align: center;
+        margin: 0 5px 10px;
+}
+
+#content #post_container .image_container .three {
+        width: 30% !important;
+}
+
+#content #post_container .image_container div img {
+        height: 100% !important;
         width: 100% !important;
+        object-fit: contain !important;
 }
 
 footer {
