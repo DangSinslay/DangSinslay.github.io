@@ -60,5 +60,5 @@ Dans l’optique d’une mise en abyme, nous gravons ce logo sur un des portefeu
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img15.JPG"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img16.jpg"></div>
 <em>Mise en scène de l’objet pour la mini exposition de notre projet.
-Jeu approfondi de la mise en abyme et des parallèles entre les mots-clés de notre histoire.</em>
+Jeu approfondi de la mise en abyme et des parallèles entre les mots-clés de notre histoire</em>
 </div>
