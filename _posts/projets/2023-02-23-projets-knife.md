@@ -36,29 +36,29 @@ Voici différentes versions du texte traduit en français que nous modifions de 
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img7.JPG"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img6.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img8.jpg"></div>
-</div>
 <em>Texte final et design de billet en l’espace d’une heure pour déterminer le montant/la cagnotte du nouveau livre</em>
+</div>
 
 <div class="image_container">
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img9.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img10.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img11.jpg"></div>
-</div>
 <em>Réalisation d’un objet en lien avec l’histoire travaillée
 En combinant des éléments clés de notre histoire, nous créons le logo d’une portefeuille couteau suisse sur lequel est inscrit le dessin d’un billet singapourien (Illustrator et Photoshop)</em>
+</div>
 
 Dans l’optique d’une mise en abyme, nous gravons ce logo sur un des portefeuilles apportés par Maki avec la découpeuse laser du FAB LAB
 <div class="image_container">
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img12.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/gif.gif"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img13.jpg"></div>
-</div>
 <em>Objet final</em>
+</div>
 
 <div class="image_container">
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img14.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img15.JPG"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img16.jpg"></div>
-</div>
 <em>Mise en scène de l’objet pour la mini exposition de notre projet.
 Jeu approfondi de la mise en abyme et des parallèles entre les mots-clés de notre histoire.</em>
+</div>
