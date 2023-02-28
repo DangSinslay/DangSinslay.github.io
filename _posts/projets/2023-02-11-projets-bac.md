@@ -84,4 +84,5 @@ Ce travail est né de textes que j’écrivais comme base à l’illustration. T
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_12.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_14.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_15.jpg"></div>
+<em>Extraits du mini-livre</em>
 </div>
