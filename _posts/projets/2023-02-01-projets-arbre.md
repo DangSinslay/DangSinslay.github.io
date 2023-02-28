@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arbre Monde"
+title: "Arbre-Monde"
 preview: /css/image/image_projets/image_projet_arbre/img1.jpg
 date: 2023-02-01
 category: projets 
