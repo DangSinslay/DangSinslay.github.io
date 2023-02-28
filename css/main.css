@@ -579,7 +579,7 @@ nav #intro:hover {
 }
 
 #top {  
-	background: no-repeat center url("https://i.imgur.com/QOYG3Cg.png") !important;
+	background: no-repeat center url(/css/image/icon_top_arrow.png) !important;
 	background-size: cover !important;
 	border: none;
 	height: 35px;
