@@ -24,8 +24,8 @@ Il y a cette main, la plus basse au niveau du menton qui te soutient, qui paraî
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_violence/img2.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_violence/img3.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,3)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,3)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
   </div>
 </div>
 
