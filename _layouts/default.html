@@ -7,18 +7,9 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
-				var btn = $('#top');
-				$(window).scroll(function() {
-					if ($(window).scrollTop() > 300) {
-						btn.addClass('show');
-					} else {
-						btn.removeClass('show');
-					}
-				});
-				btn.on('click', function(e) {
-					e.preventDefault();
-					$('html, body').animate({scrollTop:0}, '300');
-				});
+				function goTop(){
+					window.scrollTo(0, 0);
+				}
 				var x = document.getElementsByClassName("thumbnail");
 				function myFunction() {
 					for(var i=0; i < x.length; i++) {
@@ -112,7 +103,7 @@
 				<a id="intro" href="/blog">Qui suis-je ?</a>
 			</nav>
 			{{ content }}
-			<a id="top"></a>
+			<button onclick="goTop()" id="top"></button>
 			<footer>
 				<a id="mail" href="mailto:sinslay.dang@edu.gobelins.fr">sinslay.dang@edu.gobelins.fr</a>
 				<span class="separator"></span>
