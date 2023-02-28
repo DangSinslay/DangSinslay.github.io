@@ -221,6 +221,13 @@ nav #intro:hover {
         text-align: center !important;
 }
 
+#content h2 {
+        border-bottom: 1px solid #EBEBEB !important;
+        font-family: "Montserrat" !important;
+        font-size: 17pt !important;
+        padding-bottom: 15px !important;
+}
+
 #content ul {
         display: flex !important;
         flex-direction: row !important;
