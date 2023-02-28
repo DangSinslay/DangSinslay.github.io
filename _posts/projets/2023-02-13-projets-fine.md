@@ -13,8 +13,8 @@ blog: blogprojets
 ---
 
 Lorsque les devoirs, le stress et le temps prennent le dessus et t’isolent.
-<i>...Don’t worry ! Everything’s gonna be FIN.E</i>
 
 <img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_fine/img1.jpg">
+<em>...Don’t worry ! Everything’s gonna be FIN.E</em>
 
 
