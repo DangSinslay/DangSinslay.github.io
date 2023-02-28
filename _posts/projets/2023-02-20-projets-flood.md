@@ -80,7 +80,7 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
   <em>Assemblage de l’ensemble du masque avec du pistolet à colle</em>
 </div>
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/gif2.gif">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_flood/gif2.gif">
 <em>FLOOD, 2022 - Quand le cerveau est en effervescence et des vagues de pensées que tu ne peux plus contenir jaillissent telle une puissante inondation</em>
 
 <div class="image_container">
