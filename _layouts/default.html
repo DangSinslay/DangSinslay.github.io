@@ -7,14 +7,6 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
-				window.scrollTo({
-					top: selectedFrame.offsetTop,
-					left: 0,
-					behavior: 'smooth'
-				});
-				function goTop(){
-					window.scrollTo(0, 0);
-				}
 				var x = document.getElementsByClassName("thumbnail");
 				function myFunction() {
 					for(var i=0; i < x.length; i++) {
@@ -95,6 +87,10 @@
 						x[i].style.display = "none";  
 					}
 					x[slideIndex-1].style.display = "block";  
+				}
+				
+				function goTop(){
+					window.scrollTo(0, 0);
 				}
       			</script>
 		</head>
