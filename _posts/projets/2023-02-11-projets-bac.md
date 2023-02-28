@@ -75,4 +75,13 @@ J’avais d’abord pour ambition de faire une animation mais par manque de temp
 
 Ce travail est né de textes que j’écrivais comme base à l’illustration. Tout d’abord, j’ai voulu y inclure une fin triste, mais insatisfaite par le message qui en découlait, j’en ai alors réécrit un en anglais que j’ai traduit en français, servant de support à mes illustrations finales. Ce dernier travail m’est intime car il traite de ce que j’ai ressenti cette année grâce à mes rencontres qui m’ont fortement aidée à évoluer.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg">
+<div class="image_container">
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img13.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_7.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_9.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_11.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_12.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_14.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_15.jpg"></div>
+</div>
