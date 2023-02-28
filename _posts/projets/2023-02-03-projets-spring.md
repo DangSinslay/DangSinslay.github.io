@@ -19,7 +19,7 @@ Nous passons donc de la neige, des couleurs froides et des arbres nus, à de l�
 
 Il s’agit de ma toute première animation ainsi que de mon premier travail numérique réalisé sur tablette graphique ! Je l’ai réalisé en trois jours.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_spring/gif.gif">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_spring/gif.gif">
 <em>Extrait de l'animation</em>
 
 Cliquer sur ce <a href="https://drive.google.com/file/d/10-k3yZbdivrJBV0E0Bm4OsT_VcaWwGZl/view?usp=sharing">lien</a> pour voir l'animation complète avec le son.
