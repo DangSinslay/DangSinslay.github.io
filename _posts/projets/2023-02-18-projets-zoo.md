@@ -77,4 +77,4 @@ Pangramme attribué :
 <em>Fabrication de normographes en carton (pour les formes plus grandes), tests de différentes techniques plastiques puis réalisation de l’affiche peinte manuellement à l’acrylique</em>
 </div>
 
-Pour plus de détails, télécharger mon <a href="/css/pdf/note_intention_zoo.pdf">carnet de bord</a> !
+Pour plus de détails, télécharger mon <a href="/css/pdf/carnet_bord_zoo.pdf">carnet de bord</a> !
