@@ -14,4 +14,4 @@ blog: blogprojets
 
 Portrait de la chienne de Stéphane.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_dog/img1.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_dog/img1.jpg">
