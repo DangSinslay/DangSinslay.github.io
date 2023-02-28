@@ -33,8 +33,8 @@ Projet sur la réalisation d’un premier pictogramme faisant référence au qua
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img2_5.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img2_6.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
   </div>
 </div>
 <em>Création et variations de pictogrammes représentant la Défense</em>
@@ -50,8 +50,8 @@ Projet sur la réalisation d’un premier pictogramme faisant référence au qua
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img3_6.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img3_7.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,2)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,2)">&#10095;</button>
   </div>
 </div>
 <em>Rencontre des signes Paris (la Défense) et Berlin (l’ours de Berlin)</em>
@@ -60,8 +60,8 @@ Projet sur la réalisation d’un premier pictogramme faisant référence au qua
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img4.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img4_1.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,3)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,3)">&#10095;</button>
   </div>
 </div>
 <em>Fiche identité du signe final et déclinaison du signe en 56 textures</em>
