@@ -88,19 +88,18 @@
 					}
 					x[slideIndex-1].style.display = "block";  
 				}
-				let mybutton = document.getElementById("top");
-				window.onscroll = function() {scrollFunction()};
-				function scrollFunction() {
-					if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-						mybutton.style.display = "block";
+				var btn = $('#top');
+				$(window).scroll(function() {
+					if ($(window).scrollTop() > 300) {
+						btn.addClass('show');
 					} else {
-						mybutton.style.display = "none";
+						btn.removeClass('show');
 					}
-				}
-				function topFunction() {
-					document.body.scrollTop = 0; // For Safari
-					document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-				} 
+				});
+				btn.on('click', function(e) {
+					e.preventDefault();
+					$('html, body').animate({scrollTop:0}, '300');
+				});
       			</script>
 		</head>
 		<body>
