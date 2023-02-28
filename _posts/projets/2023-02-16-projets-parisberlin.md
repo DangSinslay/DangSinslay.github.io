@@ -2,7 +2,7 @@
 layout: post
 title: "Paris-Berlin"
 preview: /css/image/image_projets/image_projet_parisberlin/thumbnail.jpg
-date: 2023-02-17
+date: 2023-02-16
 category: projets 
 category2: gobelins
 description: Création de pictogrammes célébrant l'union Paris-Berlin
