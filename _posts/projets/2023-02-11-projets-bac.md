@@ -104,15 +104,3 @@ Ce travail est né de textes que j’écrivais comme base à l’illustration. T
     <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
   </div>
 </div>
-
-<div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img13.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_7.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_9.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_11.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_12.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_14.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12_15.jpg"></div>
-<em>Extraits du mini-livre</em>
-</div>
