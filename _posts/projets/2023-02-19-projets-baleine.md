@@ -23,7 +23,7 @@ Avec ma binôme Oanell Audry, nous avons choisi de créer un automate, sous la f
 <em>Début des recherches et expérimentations</em>
 </div>
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img4.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/img4.jpg">
 <em>Patrons tests</em>
 
 <div class="image_container">
@@ -47,7 +47,7 @@ Une fois toutes les parties construites, nous les relions grâce à un bracelet 
 <div style="transform: rotate(-90deg); width: 10% !important;"><img onclick="Zoom(this)" style="width: 40% !important;" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif1.gif"></div>
 </div>
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif2.gif">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif2.gif">
 <em>Premier mécanisme construit défaillant :  la baleine semble plus danser que nager !</em>
 
 <div class="image_container">
@@ -80,5 +80,5 @@ Une fois toutes les parties construites, nous les relions grâce à un bracelet 
 
 Entre l’objet décoratif et le jouet, voici la baleine automate qui, grâce à un curieux mécanisme, nage paisiblement dans l’eau ondulante !
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif7.gif">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_baleine/gif7.gif">
 
