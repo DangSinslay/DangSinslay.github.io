@@ -2,7 +2,7 @@
 layout: post
 title: "Le Koï et le Dragon"
 preview: /css/image/image_projets/image_projet_koïdragon/thumbnail.jpg
-date: 2023-02-18
+date: 2023-02-17
 category: projets 
 category2: gobelins
 description: Linogravure d'une chimère Koï/Dragon
