@@ -19,7 +19,7 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 
 À travers l’édition de mon objet éditorial, je souhaite donc mettre en avant la souffrance et la déchirure traversée par le protagoniste, cette tension entre le désir et la crainte l’obligeant à trouver le juste équilibre dans la douleur ainsi que sa nostalgie doublée de regrets. Une attention particulière est accordée à ce dit “you” dans la chanson, cette personne avec qui il a partagé de nombreux souvenirs et qu’il regrette.
 
-<img src="/css/image/image_projets/image_projet_joji/img1.jpg">
+<img style="display: block;" src="/css/image/image_projets/image_projet_joji/img1.jpg">
 <em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 
 <div class="image_container">
@@ -36,9 +36,10 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%; display: block;">
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
-
-  <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+  </div>
   <em>Chemin de fer de l’objet éditorial (version 2)</em>
 </div>
 
