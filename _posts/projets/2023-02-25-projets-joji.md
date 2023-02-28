@@ -32,11 +32,14 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 <em>Début des recherches et expérimentations</em>
 </div>
 
-<div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3_1.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img3_2.jpg"></div>
-<em>Chemin de fer de l’objet éditorial (version 2)</em>
+<div class="display-container">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
+
+  <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+  <em>Chemin de fer de l’objet éditorial (version 2)</em>
 </div>
 
 Au départ, j’ai voulu présenter mon objet éditorial sous la forme d’une boîte à souvenirs qui appartiendrait au protagoniste du clip musical. Cette boîte aurait été composée de trois éléments : un livret, des images imprimées sous un format polaroid ainsi qu’une enveloppe qui évoquent le souvenir.
