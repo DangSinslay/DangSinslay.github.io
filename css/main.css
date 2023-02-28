@@ -412,6 +412,10 @@ nav #intro:hover {
         background: #E7E7E7 !important;
 }
 
+#subnav button.active {
+        background: #cecdcd !important;
+}
+
 #content #container {
         height: 300px !important;
         width: 100%;
