@@ -13,4 +13,5 @@ blog: blogprojets
 ---
 
 Création d’un outil artistique.
+
 <img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_parrot/img1.jpg">
