@@ -577,6 +577,7 @@ nav #intro:hover {
 #top {  
 	background: no-repeat center url("https://i.imgur.com/QOYG3Cg.png") !important;
 	background-size: cover !important;
+	border: none;
 	height: 35px;
 	width: 35px;
 	text-align: center;
