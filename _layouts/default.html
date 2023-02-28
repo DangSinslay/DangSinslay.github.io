@@ -7,6 +7,18 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
+				var btn = $('#top');
+				$(window).scroll(function() {
+					if ($(window).scrollTop() > 300) {
+						btn.addClass('show');
+					} else {
+						btn.removeClass('show');
+					}
+				});
+				btn.on('click', function(e) {
+					e.preventDefault();
+					$('html, body').animate({scrollTop:0}, '300');
+				});
 				var x = document.getElementsByClassName("thumbnail");
 				function myFunction() {
 					for(var i=0; i < x.length; i++) {
@@ -88,18 +100,6 @@
 					}
 					x[slideIndex-1].style.display = "block";  
 				}
-				var btn = $('#top');
-				$(window).scroll(function() {
-					if ($(window).scrollTop() > 300) {
-						btn.addClass('show');
-					} else {
-						btn.removeClass('show');
-					}
-				});
-				btn.on('click', function(e) {
-					e.preventDefault();
-					$('html, body').animate({scrollTop:0}, '300');
-				});
       			</script>
 		</head>
 		<body>
