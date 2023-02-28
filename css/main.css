@@ -574,23 +574,15 @@ nav #intro:hover {
         object-fit: cover !important;
 }
 
-#top {
-	background-color: #FF9800;
-	border-radius: 4px;
-	width: 50px;
-	height: 50px;
+#top {  
+	background: no-repeat center url("https://i.imgur.com/QOYG3Cg.png") !important;
+	background-size: cover !important;
+	height: 35px;
+	width: 35px;
 	text-align: center;
 	position: fixed;
 	right: 30px;
 	bottom: 30px;
-	transition: background-color .3s, opacity .5s, visibility .5s;
-	display: inline-block;
-	z-index: 1000;
-}
-
-#top span {
-	font-family: "Montserrat" !important;	
-	font-weight: bold;
 }
 
 footer {
