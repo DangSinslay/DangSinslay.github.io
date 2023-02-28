@@ -49,13 +49,10 @@
 						}
 					}
 				}
-					$('document').ready(function () {
+				$('document').ready(function () {
 					$('button').click(function () {
 						$('button').removeClass('active');
 						$(this).addClass('active');
-						var $div = $('#' + $(this).data('href'));
-						$('.demo').not($div).hide();
-						$div.slideToggle();
 					});
 				});
 				document.addEventListener('animationstart', function (e) {
