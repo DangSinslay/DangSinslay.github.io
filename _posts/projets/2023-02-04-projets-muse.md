@@ -20,6 +20,6 @@ Une rose épineuse dans la bouche, le silence.
 
 La femme et son mutisme éternel.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_muse/img1.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_muse/img1.jpg">
 
 
