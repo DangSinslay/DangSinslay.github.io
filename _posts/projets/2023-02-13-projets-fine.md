@@ -14,7 +14,7 @@ blog: blogprojets
 
 Lorsque les devoirs, le stress et le temps prennent le dessus et t’isolent.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_fine/img1.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_fine/img1.jpg">
 <em>...Don’t worry ! Everything’s gonna be FIN.E</em>
 
 
