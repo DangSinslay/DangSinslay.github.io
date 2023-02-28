@@ -33,7 +33,7 @@ Le clip musical que jâ€™ai choisi est Slow Dancing in the Dark de Joji qui est Ã
 </div>
 
 <div class="display-container">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%; display: block;">
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
 
