@@ -22,8 +22,8 @@ Finalement, mon premier travail aborde une perspective plus globale concernant l
 Pour ce travail, je me suis inspirée de deux artistes en particulier : Barbara Kruger et Keith Haring qui combinent tous deux l’image et le texte et articulent un contraste des couleurs vives et plus sombres. De même, Keith Haring est connu pour ses fameux personnages assez simplistes. Par ailleurs, ce travail s’inscrit dans la continuité d’un précédent travail réalisé en année de Première sur la liberté et notamment l’émancipation de la femme.
 
 <div class="image_container">
-<div><img src="/css/image/image_projets/image_projet_bac/img2.jpg"></div>
-div><img src="/css/image/image_projets/image_projet_bac/img3.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img2.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img3.jpg"></div>
 </div>
 
 <h2>HELP!</h2>
@@ -35,10 +35,10 @@ Cette peinture à l’acrylique représente un rapport de force intérieur, de n
 J’ai alors voulu me concentrer sur l’expression des émotions, par le visage mais également par le langage corporel avec les mains qui sont des membres que je mobilise énormément dans mes travaux comme The End of Violence que j’ai réalisé en 2020. Je me suis beaucoup inspirée des travaux de Jago et de Johnson Tsang qui m’impressionnent par leur expressivité, ainsi que de Jacques Monory pour le bleu du personnage. De plus, pour donner du dynamisme et de la puissance dans l’émotion, pour mettre en appui cette destruction intérieure que subit l’homme, j’ai joué sur la destruction des lettres dans le fond et ces fréquences qui évoquent un son strident.
 
 <div class="image_container">
-<div><img src="/css/image/image_projets/image_projet_bac/img4.jpg"></div>
-<div><img src="/css/image/image_projets/image_projet_bac/img5.jpg"></div>
-<div style="width: 100% !important;"><img src="/css/image/image_projets/image_projet_bac/img6.jpg"></div>
-<div style="width: 100% !important;"><img src="/css/image/image_projets/image_projet_bac/img7.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img4.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img5.jpg"></div>
+<div style="width: 100% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img6.jpg"></div>
+<div style="width: 100% !important;"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img7.jpg"></div>
 </div>
 
 <h2>Ignorance</h2>
@@ -50,8 +50,8 @@ Je me suis inspirée d’une expérience avec une amie lorsqu’on parlait du st
 Pour ce travail, je me suis inspirée de Yue Minjun qui est devenu un de mes artistes préférés au cours de l’année.
 
 <div class="image_container">
-<div><img src="/css/image/image_projets/image_projet_bac/img8.jpg"></div>
-<div><img src="/css/image/image_projets/image_projet_bac/img9.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img8.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img9.jpg"></div>
 </div>
 
 <h2>Domination</h2>
@@ -63,8 +63,8 @@ Il s’agit d’une sculpture en argile que j’ai peinte à l’acrylique. Sur 
 Je qualifie souvent ce travail de métaphore de la domination avec la main représentant le bourreau qui arrache sans consentement les victimes représentées par les roses. Pour cela, je ne m’étais pas vraiment inspirée de quoi que ce soit tant l’idée et le visuel me sont venus instinctivement en tête par hasard un jour, mais j’ai remarqué une certaine ressemblance avec la rose éternelle de la Belle et la bête qui m’a peut être inspirée inconsciemment.
 
 <div class="image_container">
-<div><img src="/css/image/image_projets/image_projet_bac/img10.jpg"></div>
-<div><img src="/css/image/image_projets/image_projet_bac/img11.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img10.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img11.jpg"></div>
 </div>
 
 <h2>L’expérience</h2>
@@ -75,4 +75,4 @@ J’avais d’abord pour ambition de faire une animation mais par manque de temp
 
 Ce travail est né de textes que j’écrivais comme base à l’illustration. Tout d’abord, j’ai voulu y inclure une fin triste, mais insatisfaite par le message qui en découlait, j’en ai alors réécrit un en anglais que j’ai traduit en français, servant de support à mes illustrations finales. Ce dernier travail m’est intime car il traite de ce que j’ai ressenti cette année grâce à mes rencontres qui m’ont fortement aidée à évoluer.
 
-<img src="/css/image/image_projets/image_projet_bac/img12.jpg">
+<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg">
