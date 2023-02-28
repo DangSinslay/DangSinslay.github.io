@@ -12,6 +12,6 @@ data3: Stylos billes et crayons de couleur sur papier
 blog: blogprojets
 ---
 
-Portrait du chien de Stéphane.
+Portrait de la chienne de Stéphane.
 
 <img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_dog/img1.jpg">
