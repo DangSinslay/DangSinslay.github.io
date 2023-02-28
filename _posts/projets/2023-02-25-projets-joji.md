@@ -38,8 +38,8 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
     <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
   </div>
-  <em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 </div>
+<em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%; display: block;">
@@ -49,8 +49,8 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
     <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
   </div>
-  <em>Chemin de fer de l’objet éditorial (version deux)</em>
 </div>
+<em>Chemin de fer de l’objet éditorial (version deux)</em>
 
 Au départ, j’ai voulu présenter mon objet éditorial sous la forme d’une boîte à souvenirs qui appartiendrait au protagoniste du clip musical. Cette boîte aurait été composée de trois éléments : un livret, des images imprimées sous un format polaroid ainsi qu’une enveloppe qui évoquent le souvenir.
 
@@ -88,8 +88,8 @@ Cette couleur est porteuse de nombreuses symboliques dans mon projet : le rouge 
     <button class="display-left" onclick="plusDivs(-1,2)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,2)">&#10095;</button>
   </div>
-  <em>Extraits de pages pré-print</em>
 </div>
+<em>Extraits de pages pré-print</em>
 
 Pour l’impression, j’ai utilisé divers papiers bruns plus ou moins épais en fonction du degré de vulnérabilité de protagoniste, que j’ai contrastés avec du papier noir d’apparence très opaque et brut, ainsi que du papier transparent.
 
