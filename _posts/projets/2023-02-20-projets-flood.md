@@ -21,7 +21,6 @@ Pour sa création, je me suis inspirée du cinéma et notamment de la caméra da
 
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1.jpg" style="width:100%; display: block;">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_1.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_2.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_3.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_4.jpg" style="width:100%">
