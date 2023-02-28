@@ -97,7 +97,7 @@
 						}
 					});
 
-					$('#top').click(function(){
+					function topFunction(){
 						$('html, body').animate({scrollTop : 0},800);
 						return false;
 					});
@@ -115,7 +115,7 @@
 			</nav>
 			{{ content }}
 			<button onclick="topFunction()" id="top" title="Go to top">
-				<span lang="fr">Haut</span>
+				<span>Haut</span>
 			</button>
 			<footer>
 				<a id="mail" href="mailto:sinslay.dang@edu.gobelins.fr">sinslay.dang@edu.gobelins.fr</a>
