@@ -18,4 +18,4 @@ Sans les arbres, nous ne pouvons plus respirer et nous mourons.
 
 Face à la destruction de la nature, qu’attendons-nous de la vie humaine sur notre - autrefois - si riche planète Terre ?
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_arbre/img1.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_arbre/img1.jpg">
