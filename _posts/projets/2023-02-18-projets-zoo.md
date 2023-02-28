@@ -25,7 +25,7 @@ Pangramme attribué :
 <em>Recherches visuelles et graphiques</em>
 </div>
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img5.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img5.jpg">
 <em>Approche par l’illustration puis travail de simplification</em>
 
 <div class="image_container">
@@ -35,7 +35,7 @@ Pangramme attribué :
 <em>Ajout d’une contrainte, les garaldes, qui devaient constituer la base de la typographie que nous devions créer, elle-même inspirée du pangramme attribué</em>
 </div>
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img9.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img9.jpg">
 <em>Expérimentations de textures à l’encre de chine pour représenter le mouvement, les poils et ajouter du dynamisme</em>
 
 <div class="image_container">
@@ -76,6 +76,5 @@ Pangramme attribué :
 <div class="three"></div>
 <em>Fabrication de normographes en carton (pour les formes plus grandes), tests de différentes techniques plastiques puis réalisation de l’affiche peinte manuellement à l’acrylique</em>
 </div>
-
 
 Pour plus de détails, télécharger mon <a href="https://drive.google.com/file/d/1V0FJZBR2wrkOzF1gYc3Q2KDSbJ6fv4XJ/view?usp=share_link">carnet de bord</a> !
