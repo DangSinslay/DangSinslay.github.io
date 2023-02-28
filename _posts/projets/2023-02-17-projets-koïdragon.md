@@ -54,7 +54,6 @@ La légende chinoise raconte qu’une carpe koï remontant à contre-courant le 
 <em>Vectorisation de l’illustration sur Illustrator (outil plume) pour pouvoir utiliser les machines du FAB LAB</em>
 </div>
 
-
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/img20.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_koïdragon/gif1.gif"></div>
