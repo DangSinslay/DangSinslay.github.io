@@ -75,6 +75,36 @@ J’avais d’abord pour ambition de faire une animation mais par manque de temp
 
 Ce travail est né de textes que j’écrivais comme base à l’illustration. Tout d’abord, j’ai voulu y inclure une fin triste, mais insatisfaite par le message qui en découlait, j’en ai alors réécrit un en anglais que j’ai traduit en français, servant de support à mes illustrations finales. Ce dernier travail m’est intime car il traite de ce que j’ai ressenti cette année grâce à mes rencontres qui m’ont fortement aidée à évoluer.
 
+<div class="display-container">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img13.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_7.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_8.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_9.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_10.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_11.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_12.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_13.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_14.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_15.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_16.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_17.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_18.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_19.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_20.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_bac/img12_21.jpg" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+  </div>
+</div>
+
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img13.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_bac/img12.jpg"></div>
