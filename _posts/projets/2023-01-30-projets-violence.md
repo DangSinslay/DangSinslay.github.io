@@ -19,10 +19,10 @@ Oui, ce masque qui leur fait disparaître tout signe de faiblesse, toute plaie. 
 Il y a cette main, la plus basse au niveau du menton qui te soutient, qui paraît si bienveillante et innocente à première vue; puis vient celle qui te couvre la bouche, qui te chante de te taire ou pire viendra; peu après, celle qui te coupe la vue, qui transforme toutes ces violences en choses banales, communes, normales ; cette quatrième main se place au-dessus de ta tête, la plus grande, celle qui te contrôle entièrement, celle qui fait de toi sa marionnette, "sa chose". 
 
 <div class="image_container">
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img4.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img1.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img2.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img3.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img4.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img5.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img6.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_violence/img7.jpg"></div>
