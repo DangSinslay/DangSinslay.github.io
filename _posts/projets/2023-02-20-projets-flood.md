@@ -19,18 +19,24 @@ Mon masque offre à voir le lien entre perfectionnisme, autrui et pensées qui, 
 
 Pour sa création, je me suis inspirée du cinéma et notamment de la caméra dans sa forme la plus emblématique afin d’expliquer et de faire ressortir mes facettes de manière symbolique.   
 
-<div class="image_container">
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_2.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_3.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_4.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_5.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_6.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_7.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_9.jpg"></div>
-  <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img1_8.jpg"></div>
-  <em>Planches de recherches</em>
+<div class="display-container">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_7.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_8.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_9.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_flood/img1_10.jpg" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+  </div>
 </div>
+<em>Planches de recherches</em>
 
 <div class="image_container">
   <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_flood/img2.jpg"></div>
