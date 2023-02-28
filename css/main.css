@@ -570,6 +570,18 @@ footer #instagram::before {
         margin-right: 6px !important;
 }
 
+footer #cv::before {
+        background: no-repeat center url(/css/image/icon_cv.jpg) !important;
+        background-size: auto;
+        background-size: 100% auto !important;
+        color: transparent !important;
+        content: "" !important;
+        padding: 2px 11px !important;
+        position: relative !important;
+        top: 1px !important;
+        margin-right: 6px !important;
+}
+
 footer .separator {
         border-right: 1px dotted #7E7E7E !important;
         margin: 0px 18px 0px 15px !important;
