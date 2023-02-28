@@ -42,9 +42,9 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 </div>
 
 <div class="display-container">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%; display: block;">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img3.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
@@ -70,20 +70,20 @@ En ce qui concerne le travail des images, j’ai choisi de me concentrer sur tro
 Cette couleur est porteuse de nombreuses symboliques dans mon projet : le rouge est à la fois l’amour, le bouleversement, le choc et la souffrance. Mais surtout, le rouge symbolise la présence et l’influence de cette autre personne sur le protagoniste.
 
 <div class="display-container">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6.jpg" style="width:100%; display: block;">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_1.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_2.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_3.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_4.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_5.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_6.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_7.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_8.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_9.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_10.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_11.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_12.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_13.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_7.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_8.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_9.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" rc="/css/image/image_projets/image_projet_joji/img6_10.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_11.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_12.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img6_13.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,2)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,2)">&#10095;</button>
@@ -96,16 +96,16 @@ Pour l’impression, j’ai utilisé divers papiers bruns plus ou moins épais e
 Voici quelques extraits de mon objet éditorial :
 
 <div class="display-container">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7.jpg" style="width:100%; display: block;">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_1.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_2.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_3.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_4.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_5.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_6.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_7.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_8.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_9.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_7.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_8.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img7_9.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,3)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,3)">&#10095;</button>
