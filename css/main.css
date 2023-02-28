@@ -400,6 +400,12 @@ nav #intro:hover {
         font-family: "Montserrat" !important;
         font-size: 40pt !important;
         font-weight: bold !important;
+	transition: all .3s ease-in-out;
+}
+
+#content .row:hover #details .title {
+	color: #ffa801 !important;
+	transition: all .3s ease-in-out;
 }
 
 .row #details .description {
