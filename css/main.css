@@ -62,7 +62,17 @@
         opacity: .35 !important;
 }
 
-.mySlides {
+.display-container {
+	border: 1px solid #EBEBEB;
+	height: 500px;
+	width: 100% !important;
+	margin-bottom: 100px !important;
+}
+
+.display-container .mySlides {
+	height: 100% !important;
+	width: 100% !important;
+	object-fit: contain !important;
         display:none;
 }
 
