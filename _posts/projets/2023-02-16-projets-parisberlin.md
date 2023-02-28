@@ -39,7 +39,6 @@ Projet sur la réalisation d’un premier pictogramme faisant référence au qua
 </div>
 <em>Création et variations de pictogrammes représentant la Défense</em>
 
-
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img3.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img3_1.jpg" style="width:100%">
@@ -77,5 +76,5 @@ Projet sur la réalisation d’un premier pictogramme faisant référence au qua
 
 Histoire de notre pictogramme :
 La Défense et l’ours de Berlin, quelle combinaison inédite ! Pour notre pictogramme, nous avons voulu donner une nouvelle essence à nos symboles respectifs. Par leur fusion, des histoires se créent : l’ours se promène dans le quartier de la Défense, il le porte sur son dos ou encore celui-ci fait partie intégrante de l’ours. À travers nos 56 signes aux textures diverses, nous cherchons à évoquer autant d’interprétations différentes de notre pictogramme.
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img10.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_parisberlin/img10.jpg">
 <em>Affiche rassemblant 56 variations graphiques de notre pictogramme,  40 × 60 cm</em>
