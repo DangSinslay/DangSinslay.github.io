@@ -56,7 +56,7 @@ Au départ, j’ai voulu présenter mon objet éditorial sous la forme d’une b
 
 Néanmoins, après discussion, j’ai réalisé que mon idée s’éloignait de la conception d’un objet éditorial. La boîte cachait ces éléments. Or, nous ne devions pas les découvrir mais comprendre directement les intentions derrière ce projet. C’est pourquoi, j’ai choisi de me concentrer sur la forme de l’enveloppe en guise de base de mon objet éditorial. Car, en effet, l’enveloppe est double : elle induit le dialogue et donc l’interaction entre deux personnes à minima. Toutefois, j’ai voulu garder les éléments auxquels j’avais pensés pour la conception de la boîte à souvenirs (le livret, les images format polaroid et l’enveloppe) pour les intégrer dans l’enveloppe.
 
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img9.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img9.jpg">
 <em>Chemin de fer actualisé</em>
 
 Mon objet éditorial est donc une enveloppe hybride : une fois ouverte, on y découvre un livret intégré ainsi que d’autres éléments inattendus qui viennent surprendre le lecteur !
