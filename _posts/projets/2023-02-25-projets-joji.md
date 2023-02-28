@@ -46,8 +46,8 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_1.jpg" style="width:100%">
   <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img3_2.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
   </div>
   <em>Chemin de fer de l’objet éditorial (version 2)</em>
 </div>
