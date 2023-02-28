@@ -20,16 +20,25 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 À travers l’édition de mon objet éditorial, je souhaite donc mettre en avant la souffrance et la déchirure traversée par le protagoniste, cette tension entre le désir et la crainte l’obligeant à trouver le juste équilibre dans la douleur ainsi que sa nostalgie doublée de regrets. Une attention particulière est accordée à ce dit “you” dans la chanson, cette personne avec qui il a partagé de nombreux souvenirs et qu’il regrette.
 
 <img style="display: block;" src="/css/image/image_projets/image_projet_joji/img1.jpg">
-<em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 
-<div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_2.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_4.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_5.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_9.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_10.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img2_11.jpg"></div>
-<em>Début des recherches et expérimentations</em>
+<div class="display-container">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2.jpg" style="width:100%; display: block;">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_1.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_2.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_3.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_4.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_5.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_6.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_7.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_8.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_9.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_10.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_11.jpg" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+  </div>
+  <em>Expérimentations de trames, de couleurs et début de chemin de fer</em>
 </div>
 
 <div class="display-container">
