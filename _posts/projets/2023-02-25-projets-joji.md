@@ -49,7 +49,7 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
     <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
   </div>
-  <em>Chemin de fer de l’objet éditorial (version 2)</em>
+  <em>Chemin de fer de l’objet éditorial (version deux)</em>
 </div>
 
 Au départ, j’ai voulu présenter mon objet éditorial sous la forme d’une boîte à souvenirs qui appartiendrait au protagoniste du clip musical. Cette boîte aurait été composée de trois éléments : un livret, des images imprimées sous un format polaroid ainsi qu’une enveloppe qui évoquent le souvenir.
