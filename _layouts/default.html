@@ -64,16 +64,6 @@
 					var modal = document.getElementById('myModal');
 					modal.style.display = "none";
 				}    
-				let btns = document.querySelectorAll('button');
-
-				btns.forEach((btn)=> {
-				btn.addEventListener('click', function() {
-					if(document.querySelector('button.active')){
-						document.querySelector('button.active').classList.remove('active');
-					}
-					btn.classList.add('active');
-					});
-				});
       			</script>
 		</head>
 		<body>
