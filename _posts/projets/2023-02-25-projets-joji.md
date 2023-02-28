@@ -19,21 +19,21 @@ Le clip musical que j’ai choisi est Slow Dancing in the Dark de Joji qui est �
 
 À travers l’édition de mon objet éditorial, je souhaite donc mettre en avant la souffrance et la déchirure traversée par le protagoniste, cette tension entre le désir et la crainte l’obligeant à trouver le juste équilibre dans la douleur ainsi que sa nostalgie doublée de regrets. Une attention particulière est accordée à ce dit “you” dans la chanson, cette personne avec qui il a partagé de nombreux souvenirs et qu’il regrette.
 
-<img style="display: block;" src="/css/image/image_projets/image_projet_joji/img1.jpg">
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img1.jpg">
 
 <div class="display-container">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2.jpg" style="width:100%; display: block;">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_1.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_2.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_3.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_4.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_5.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_6.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_7.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_8.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_9.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_10.jpg" style="width:100%">
-  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img2_11.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_1.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_7.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_8.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_9.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_10.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_joji/img2_11.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
@@ -69,28 +69,49 @@ En ce qui concerne le travail des images, j’ai choisi de me concentrer sur tro
 
 Cette couleur est porteuse de nombreuses symboliques dans mon projet : le rouge est à la fois l’amour, le bouleversement, le choc et la souffrance. Mais surtout, le rouge symbolise la présence et l’influence de cette autre personne sur le protagoniste.
 
-<div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_1.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_4.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_5.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_7.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img6_9.jpg"></div>
-<em>Extraits de pages pré-print</em>
+<div class="display-container">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6.jpg" style="width:100%; display: block;">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_1.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_2.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_3.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_4.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_5.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_6.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_7.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_8.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_9.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_10.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_11.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_12.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img6_13.jpg" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,2)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,2)">&#10095;</button>
+  </div>
+  <em>Extraits de pages pré-print</em>
 </div>
 
 Pour l’impression, j’ai utilisé divers papiers bruns plus ou moins épais en fonction du degré de vulnérabilité de protagoniste, que j’ai contrastés avec du papier noir d’apparence très opaque et brut, ainsi que du papier transparent.
 
 Voici quelques extraits de mon objet éditorial :
-<div class="image_container">
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_2.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_3.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_4.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_5.jpg"></div>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img7_7.jpg"></div>
-</div>
-<img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img8.jpg">
 
+<div class="display-container">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7.jpg" style="width:100%; display: block;">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_1.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_2.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_3.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_4.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_5.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_6.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_7.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_8.jpg" style="width:100%">
+  <img class="mySlides" src="/css/image/image_projets/image_projet_joji/img7_9.jpg" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,3)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,3)">&#10095;</button>
+  </div>
+</div>
+
+<img onclick="Zoom(this)" style="display: block;" class="img-gallery" src="/css/image/image_projets/image_projet_joji/img8.jpg">
 
 Enfin, mon intention principale derrière ce projet était de créer un objet éditorial capable de susciter l’empathie, la compréhension ou encore l’identification du lecteur envers le protagoniste du clip musical. En effet, son chagrin pourrait être celle de quiconque. J’ai donc misé sur le carton en base de mon objet, un matériau omniprésent et accessible à tous : nous le retrouvons dans les rues, les poubelles, en base du packaging de nos courses au supermarché, de nos achats en ligne...
