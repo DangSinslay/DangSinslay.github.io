@@ -8,9 +8,14 @@
 			<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 			<script type="text/javascript">
 				var x = document.getElementsByClassName("thumbnail");
-				function myFunction() {
+				function myFunction(el) {
 					for(var i=0; i < x.length; i++) {
 						x[i].style.display = "block";
+					}
+					if(el.id == 'button_all') {
+						el.id = 'button_all_active'	
+					} else {
+						el.id = 'button_all'
 					}
 				}
 				function myFunction2() {
