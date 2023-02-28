@@ -68,4 +68,4 @@ La légende chinoise raconte qu’une carpe koï remontant à contre-courant le 
 <em>Broderie sur tissu de la chimère à l’aide de la brodeuse numérique</em>
 </div>
 
-Pour plus de détails, télécharger mon <a href="https://drive.google.com/file/d/1S8pKyrYQurMnnyod7ARneOV12P1UkNjl/view?usp=share_link">carnet de bord</a> !
+Pour plus de détails, télécharger mon <a href="/css/pdf/note_intention_koïdragon.pdf">carnet de bord</a> !
