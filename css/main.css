@@ -83,10 +83,24 @@
 }
 
 #button_container button {
+	background-color: transparent;
+	border: 1px solid #BEBEBE !important;
+	border-radius: 50% !important;
+	color: transparent;
         font-size: 20pt !important;
         height: 40px !important;
         width: 45px !important;
         padding-bottom: 40px !important;
+}
+
+.display-left {
+	background: no-repeat 45% center url(/css/image/icon_left_arrow.jpg) !important;
+	background-size: 10px auto !important;
+}
+
+.display-right {
+	background: no-repeat 52% center url(/css/image/icon_right_arrow.jpg) !important;
+	background-size: 10px auto !important;
 }
 
 * {
