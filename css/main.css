@@ -588,6 +588,11 @@ nav #intro:hover {
 	position: fixed;
 	right: 13px;
 	bottom: 13px;
+	opacity: .75;
+}
+
+#top:hover {
+	opacity: 1;
 }
 
 footer {
