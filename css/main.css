@@ -93,6 +93,10 @@
         padding-bottom: 40px !important;
 }
 
+#button_container button:hover {
+	opacity: .7;
+}
+
 .display-left {
 	background: no-repeat 45% center url(/css/image/icon_left_arrow.jpg) !important;
 	background-size: 10px auto !important;
