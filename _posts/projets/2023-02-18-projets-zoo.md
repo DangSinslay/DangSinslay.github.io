@@ -2,7 +2,7 @@
 layout: post
 title: "Hier, au zoo"
 preview: /css/image/image_projets/image_projet_zoo/thumbnail.jpg
-date: 2023-02-16
+date: 2023-02-18
 category: projets 
 category2: gobelins
 description: Création d’une typographie modulaire à partir d’un pangramme
