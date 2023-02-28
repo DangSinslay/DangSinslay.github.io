@@ -117,6 +117,10 @@ a {
         text-decoration: none;
 }
 
+html {
+	scroll-behavior: smooth !important;
+}
+
 body {
         background: #FFF;
         padding: 0;
