@@ -20,7 +20,7 @@ Le travail des premières années est la création de supports visuels et textue
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_knife/img2.jpg"></div>
 </div>
 
-En déconstruisant le livre, nous récupérons chacun une page (ou plus) du livre et choisissons une histoire. Avec Coline Marais, nous choisissons l’histoire intitulée “<i>A wallet printed with the dollar bill design bought in Singapore</i>”.
+En déconstruisant le livre, nous récupérons chacun une page (ou plus) du livre et choisissons une histoire. Avec Coline Marais, nous choisissons l’histoire intitulée « <i>A wallet printed with the dollar bill design bought in Singapore</i> ».
 
 Le texte étant en anglais, nous devions effectuer un réel travail de traduction qui ne se limitait pas seulement à sa traduction littérale. Nous pouvions tout à fait modifier des éléments, en supprimer ou en ajouter !
 
