@@ -24,4 +24,6 @@ Il s’agit de ma toute première animation ainsi que de mon premier travail num
 
 Cliquer sur ce <a href="https://drive.google.com/file/d/10-k3yZbdivrJBV0E0Bm4OsT_VcaWwGZl/view?usp=sharing">lien</a> pour voir l'animation complète avec le son.
 
+<video src="/css/video/Hello Spring.avi" controls="controls" style="max-width: 730px;"></video>
+
 
