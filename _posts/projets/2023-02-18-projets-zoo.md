@@ -15,7 +15,7 @@ Un projet en équipe de 4 élèves portant sur :
 2. Mise en forme du pangramme attribué par la création d’une affiche réalisée numériquement puis manuellement sur un format 80 × 120 cm à l’aide des normographes sans contrainte plastique particulière.
 
 Pangramme attribué :
-"<i>Hier, au zoo, j’ai vu dix guépards, cinq zébus, un yak et le wapiti fumer.</i>"
+« <i>Hier, au zoo, j’ai vu dix guépards, cinq zébus, un yak et le wapiti fumer.</i> »
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_zoo/img1.jpg"></div>
