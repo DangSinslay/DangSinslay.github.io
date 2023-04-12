@@ -2,7 +2,7 @@
 layout: post
 title: "24: How to find true love and happiness"
 preview: /css/image/image_projets/image_projet_vinyl/img5.png
-date: 2023-03-15
+date: 2023-03-01
 category: projets
 category2: gobelins
 description: Design d'une pochette de vinyle d'un album du groupe HYUKOH
