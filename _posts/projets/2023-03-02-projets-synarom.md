@@ -2,7 +2,7 @@
 layout: post
 title: "Synarom"
 preview: /css/image/image_projets/image_projet_synarom/thumbnail.jpg
-date: 2023-04-10
+date: 2023-03-02
 category: projets
 category2: gobelins
 description: Synarom - aromathéraphie, l'application pour mieux sentir et se sentir mieux !
