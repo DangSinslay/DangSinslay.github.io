@@ -57,7 +57,7 @@ blog: blogprojets
 <em>Références Penone</em>
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img8.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img8.png"></div>
 </div>
 <em>Référence Yves Klein</em>
 
@@ -91,13 +91,13 @@ blog: blogprojets
 <em>Design de la base du totem</em>
 
 <div class="display-container">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_1.png" style="width:100%; display: block;">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_2.png" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_3.png" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_4.png" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_5.png" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_6.png" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_7.png" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_1.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_2.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_6.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img13_7.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,4)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,4)">&#10095;</button>
