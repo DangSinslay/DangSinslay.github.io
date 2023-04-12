@@ -38,7 +38,7 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img3.jpg"></div>
 </div>
 
-<div class="display-container">
+<div class="display-container" style="margin-top: 30px">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img4_1.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img4_2.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_signaletique/img4_3.jpg" style="width:100%">
