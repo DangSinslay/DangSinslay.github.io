@@ -35,7 +35,7 @@ blog: blogprojets
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img4.jpg"></div>
 </div>
-<em>Logo Final</em>
+<em>Logo final</em>
 
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img5.jpg" style="width:100%; display: block;">
