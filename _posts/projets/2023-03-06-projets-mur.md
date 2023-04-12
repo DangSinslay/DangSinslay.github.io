@@ -26,17 +26,17 @@ blog: blogprojets
 <em style="margin-top: -30px">Premières réflexions de recherche</em>
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img2.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_mur/img2.jpg"></div>
 </div>
 <em>Maquette de la base de la fresque</em>
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img3.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_mur/img3.jpg"></div>
 </div>
 <em>Remplissage de la base avec du texte</em>
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_signaletique/img4.jpg"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_mur/img4.jpg"></div>
 </div>
 <em>Référence Paula Sher</em>
 
