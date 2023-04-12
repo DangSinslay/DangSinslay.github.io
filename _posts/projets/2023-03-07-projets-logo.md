@@ -41,9 +41,9 @@ blog: blogprojets
     <button class="display-right" onclick="plusDivs(1,01)">&#10095;</button>
   </div>
 </div>
-<em style="margin-top: -30px">Logo final et animation du logo</em>
+<em style="margin-top: -30px">Logo final et animation du logo réallisée sur Hype</em>
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_logo/img5.jpg"></div>
 </div>
-<em>Mascotte</em>
+<em>Mascotte et logo final</em>
