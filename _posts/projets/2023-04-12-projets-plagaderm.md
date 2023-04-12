@@ -11,19 +11,23 @@ data2: Illustrator
 blog: blogprojets
 ---
 
-<div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img12.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img13.png"></div>
+<div class="display-container">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img12.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img13.png" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+  </div>
 </div>
-<em>Reprise de la charte graphique de Bioderma</em>
+<em style="margin-top: -30px">Reprise de la charte graphique de Bioderma</em>
 
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img1.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img2.jpg" style="width:100%">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img3.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
   </div>
 </div>
 <em style="margin-top: -30px">Croquis du logo</em>
@@ -37,8 +41,8 @@ blog: blogprojets
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img5.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img6.jpg" style="width:100%">
   <div id="button_container">
-    <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
-    <button class="display-right" onclick="plusDivs(1,1)">&#10095;</button>
+    <button class="display-left" onclick="plusDivs(-1,2)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,2)">&#10095;</button>
   </div>
 </div>
 <em style="margin-top: -30px">Croquis du packaging</em>
@@ -55,3 +59,8 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img10.jpg"></div>
 </div>
 <em>Flyer et sticker Plagaderm</em>
+
+<div class="image_container">
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img14.png"></div>
+</div>
+<em>Affiche pour la campagne publicitaire de Plagaderm/em>
