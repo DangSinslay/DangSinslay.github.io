@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "24: How to find true love and happiness"
+title: "Plagaderm - La gélule magique"
 preview: /css/image/image_projets/image_projet_plagaderm/thumbnail.jpg
 date: 2023-04-12
 category: projets
 category2: gobelins
-description: Design d'une pochette de vinyle d'un album du groupe HYUKOH
-data1: Mars 2023
-data2: Photoshop, Illustrator
+description: Une blessure ? Plagaderm s'en occupe !
+data1: Avril 2023
+data2: Illustrator
 blog: blogprojets
 ---
 
