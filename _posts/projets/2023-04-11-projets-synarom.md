@@ -6,6 +6,7 @@ date: 2023-04-11
 category: projets
 category2: gobelins
 description: Synarom - aromathéraphie, l'application pour mieux sentir et se sentir mieux !
+data1: Mars 2023
 data2: Illustrator
 blog: blogprojets
 ---
