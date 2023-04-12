@@ -33,13 +33,17 @@ blog: blogprojets
 </div>
 <em>Nouvelles expérimentations de logo</em>
 
-<div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_logo/img4.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_logo/img5.jpg"></div>
+<div class="display-container">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_logo/img4.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_logo/thumbnail.gif" style="width:100%">
+  <div id="button_container">
+    <button class="display-left" onclick="plusDivs(-1,1)">&#10094;</button>
+    <button class="display-right" onclick="plusDivs(1,01)">&#10095;</button>
+  </div>
 </div>
-<em>Logo final et mascotte</em>
+<em style="margin-top: -30px">Logo final et animation du logo</em>
 
 <div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_logo/thumbnail.gif"></div>
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_logo/img5.jpg"></div>
 </div>
-<em>Gif du logo fait sur Hype</em>
+<em>Mascotte</em>
