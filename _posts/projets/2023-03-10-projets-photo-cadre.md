@@ -15,10 +15,10 @@ blog: blogprojets
 </div>
 
 <div style="margin-top: 20px" class="display-container">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_cadre/img2.jpg" style="width:100%; display: block;">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_cadre/img3.jpg" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_cadre/img4.jpg" style="width:100%">
-  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_cadre/img5.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_photo_cadre/img2.jpg" style="width:100%; display: block;">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_photo_cadre/img3.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_photo_cadre/img4.jpg" style="width:100%">
+  <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_photo_cadre/img5.jpg" style="width:100%">
   <div id="button_container">
     <button class="display-left" onclick="plusDivs(-1,0)">&#10094;</button>
     <button class="display-right" onclick="plusDivs(1,0)">&#10095;</button>
