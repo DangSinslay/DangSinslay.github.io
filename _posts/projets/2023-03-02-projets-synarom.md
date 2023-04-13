@@ -11,6 +11,10 @@ data2: Illustrator
 blog: blogprojets
 ---
 
+<p>Nous voilà arrivés dans l’ère de la diffusion d’odeurs à partir des téléphones et tablettes. De quels types d’odeurs parle-t-on et quelles sont leurs propriétés ? Voici ce que nous devions définir dans ce projet de création où il nous était demandé, par équipe de 4 élèves représentant des graphistes de profession, de définir la/les propriétés des odeurs diffusées, par quel média celles-ci sont diffusées, les commanditaires, les cibles visées et proposer des maquettes servant la campagne du produit.</p>
+
+<p>Dans le cadre de ce projet, nous incarnons des graphistes représentants de la marque fictive SYNAROM vendant des huiles essentielles et cherchant à lancer son application spécialisée en aromathérapie utilisant cette fonctionnalité de diffusion d’odeurs : SYNAROM - Aromathérapie.</p>
+
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_synarom/img1_1.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_synarom/img1_2.jpg" style="width:100%">
