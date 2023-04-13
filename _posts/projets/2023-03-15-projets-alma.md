@@ -11,6 +11,8 @@ data2: Illustrator
 blog: blogprojets
 ---
 
+<p>Création d’un dépliant résumant un exposé réalisé en binôme sur les Wurfpuppen de l’artiste Alma Siedhoff-Buscher qui est une figure féminine iconique du Bauhaus.</p>
+
 <div style="width: 50% !important; margin: 0 auto !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alma/img1.jpg"></div>
 </div>
