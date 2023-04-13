@@ -66,4 +66,4 @@ blog: blogprojets
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img14.png"></div>
 </div>
-<em>Affiche pour la campagne publicitaire de Plagaderm/em>
+<em>Affiche pour la campagne publicitaire de Plagaderm</em>
