@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enfant de cinq ans"
-preview: /css/image/image_projets/image_projet_photo_enfant/thumbnail.jpg
+preview: /css/image/image_projets/image_projet_enfant/thumbnail.jpg
 date: 2023-03-08
 category: projets
 category2: gobelins
