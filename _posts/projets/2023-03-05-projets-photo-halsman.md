@@ -19,5 +19,5 @@ blog: blogprojets
 <div class="image_container">
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_photo_halsman/img3.jpg"></div>
 <div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_photo_halsman/img4.jpg"></div>>
-<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_photo_halsman/img6.jpg"></div>
+<div class="three"><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_photo_halsman/img5.jpg"></div>
 </div>
