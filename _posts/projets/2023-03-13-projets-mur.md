@@ -11,6 +11,10 @@ data2: Illustrator, Peinture murale
 blog: blogprojets
 ---
 
+<p>En accord avec la mairie du 13ème arrondissement, ce workshop spécialisé en design de message intervient sur les murs du gymnase Marcel Cerdan (75013 Paris) afin de réaliser une fresque de presque cinquante mètres de long en hommage à ce boxeur français. Composée quasi totalement de textes liés à la boxe, la fresque traite également de la vie sentimentale de Marcel Cerdan, également connu comme amant d’Edith Piaf.</p>
+
+<p>Dans un premier temps en équipe de quatre élèves, nous étions chargés de proposer des maquettes de la fresque en jouant sur l’agencement des textes présélectionnés. Dans un second temps, la maquette “modèle” est votée par la classe et des arrangements sont réalisés pendant la phase de réalisation de la fresque sur le mur directement.</p>
+
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_mur/img1_1.jpg" style="width:100%; display: block;">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_mur/img1_2.jpg" style="width:100%">
