@@ -11,6 +11,8 @@ data2: Illustrator, InDesign
 blog: blogprojets
 ---
 
+<p>Installation exposant le lien direct entre l’identité de genre/ vestimentaire et la santé mentale.</p>
+
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_workshoppao/img1.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_workshoppao/img2.jpg"></div>
