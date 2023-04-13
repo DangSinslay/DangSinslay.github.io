@@ -515,7 +515,8 @@ nav #intro:hover {
         color: #777;
         font-style: italic;
         text-align: center;
-        margin-top: -15px !important
+        margin-top: -15px !important;
+	margin-bottom: 15px !important;
 }
 
 #content #data_container span {
