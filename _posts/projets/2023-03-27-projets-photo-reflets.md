@@ -2,7 +2,7 @@
 layout: post
 title: "Reflets"
 preview: /css/image/image_projets/image_projet_photo_reflets/thumbnail.jpg
-date: 2023-03-09
+date: 2023-03-27
 category: projets
 category2: gobelins
 description: Exercice photographique traitant du reflet
