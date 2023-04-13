@@ -2,7 +2,7 @@
 layout: post
 title: "Le cadre dans le cadre"
 preview: /css/image/image_projets/image_projet_photo_cadre/thumbnail.jpg
-date: 2023-03-10
+date: 2023-03-28
 category: projets
 category2: gobelins
 description: Exercice photographique traitant du cadre dans le cadre
