@@ -2,7 +2,7 @@
 layout: post
 title: "(Trop) Féminin ou Masculin ?"
 preview: /css/image/image_projets/image_projet_workshoppao/thumbnail.jpg
-date: 2023-03-03
+date: 2023-03-20
 category: projets
 category2: gobelins
 description: Installation autour de la question de l'identité, la mode et la santé mentale
