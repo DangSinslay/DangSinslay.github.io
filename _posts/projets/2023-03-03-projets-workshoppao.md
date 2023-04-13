@@ -17,7 +17,7 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_workshoppao/img1.jpg"></div>
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_workshoppao/img2.jpg"></div>
 </div>
-<em>Références</em>
+<em>Références : Mike McQuade (gauche) et Cristiana Couceiro (droite)</em>
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_workshoppao/img3.jpg"></div>
