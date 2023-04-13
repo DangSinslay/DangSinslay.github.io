@@ -11,7 +11,7 @@ data2: Illustrator
 blog: blogprojets
 ---
 
-<div class="image_container">
+<div style="width: 50% !important; margin: 0 auto !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_alma/img1.jpg"></div>
 </div>
 <em>Croquis</em>
