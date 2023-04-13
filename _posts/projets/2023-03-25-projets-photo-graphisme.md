@@ -2,7 +2,7 @@
 layout: post
 title: "Symétrie urbaine"
 preview: /css/image/image_projets/image_projet_photo_graphisme/thumbnail.jpg
-date: 2023-03-07
+date: 2023-03-25
 category: projets
 category2: gobelins
 description: Exploration photographique en milieu urbain 
