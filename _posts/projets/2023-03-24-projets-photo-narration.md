@@ -2,7 +2,7 @@
 layout: post
 title: "Narration photographique"
 preview: /css/image/image_projets/image_projet_photo_narration/thumbnail.jpg
-date: 2023-03-06
+date: 2023-03-24
 category: projets
 category2: gobelins
 description: Réalisation d'une histoire photographique 
