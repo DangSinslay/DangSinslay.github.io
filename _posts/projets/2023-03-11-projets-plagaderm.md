@@ -2,7 +2,7 @@
 layout: post
 title: "Plagaderm - La gélule magique"
 preview: /css/image/image_projets/image_projet_plagaderm/thumbnail.jpg
-date: 2023-03-05
+date: 2023-03-11
 category: projets
 category2: gobelins
 description: Une blessure ? Plagaderm s'en occupe !
