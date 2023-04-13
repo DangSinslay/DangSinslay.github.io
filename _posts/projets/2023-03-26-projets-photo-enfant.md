@@ -2,7 +2,7 @@
 layout: post
 title: "Enfant de cinq ans"
 preview: /css/image/image_projets/image_projet_enfant/thumbnail.jpg
-date: 2023-03-08
+date: 2023-03-26
 category: projets
 category2: gobelins
 description: Aventure dans la peau d'un enfant de 5 ans au square
