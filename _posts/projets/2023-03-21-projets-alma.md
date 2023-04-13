@@ -2,7 +2,7 @@
 layout: post
 title: "Wurfpuppen"
 preview: /css/image/image_projets/image_projet_alma/thumbnail.jpg
-date: 2023-03-15
+date: 2023-03-21
 category: projets
 category2: gobelins
 description: Les Wurfpuppen d'Alma Siedhoff-Buscher
