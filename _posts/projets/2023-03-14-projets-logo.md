@@ -2,7 +2,7 @@
 layout: post
 title: "Logo personnel"
 preview: /css/image/image_projets/image_projet_logo/thumbnail.gif
-date: 2023-03-13
+date: 2023-03-14
 category: projets
 category2: gobelins
 description: Création d'un logo personnel et de son animation
