@@ -2,7 +2,7 @@
 layout: post
 title: "Le ring est une scène"
 preview: /css/image/image_projets/image_projet_mur/thumbnail.jpg
-date: 2023-03-17
+date: 2023-04-01
 category: projets
 category2: gobelins
 description: Fresque murale en hommage à Marcel Cerdan, au gymnase portant son nom au 13ème arrondissement de Paris
