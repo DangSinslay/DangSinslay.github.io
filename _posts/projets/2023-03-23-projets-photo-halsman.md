@@ -2,7 +2,7 @@
 layout: post
 title: "Sauts et mouvements"
 preview: /css/image/image_projets/image_projet_photo_halsman/thumbnail.jpg
-date: 2023-03-05
+date: 2023-03-23
 category: projets
 category2: gobelins
 description: Photos à la manière de Philippe Halsman
