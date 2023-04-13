@@ -10,6 +10,9 @@ data1: Avril 2023
 data2: Illustrator
 blog: blogprojets
 ---
+<p>Nous voilà arrivés dans l’ère des gélules magiques. Quelles sont leurs propriétés ? Voici ce que nous devions définir dans ce projet de création où il nous était demandé, par équipe de 5 élèves représentant des graphistes de profession, de définir la/les propriétés de la gélule magique, les commanditaires, les cibles visées et proposer des maquettes servant la campagne de commercialisation de la gélule.</p>
+
+<p>Dans le cadre de ce projet, nous incarnons des graphistes représentants de la marque Bioderma cherchant à lancer et commercialiser son nouveau produit : Plagaderm, la gélule qui referme miraculeusement les plaies d'intensité faible à élevée. Packaging du produit, flyer d’explication, affiches publicitaires, stickers, voici tout ce que nous avons préparé en l’espace d’une semaine !</p>
 
 <div class="display-container">
   <img onclick="Zoom(this)" class="mySlides img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img12.jpg" style="width:100%; display: block;">
