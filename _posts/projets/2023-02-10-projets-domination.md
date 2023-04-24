@@ -16,7 +16,7 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img1.jpg"></div>
 </div> 
 
-Mon troisième travail s’illustre comme un constat, un bilan de mes travaux précédents. Souvent, les relations humaines et le rapport à soi sont plus ou moins fortement caractérisés par la domination. Des personnes peuvent dominer d’autres personnes, comme par exemple avec la femme, ou encore les émotions peuvent l’emporter sur la maîtrise de soi.
+Ce travail s’illustre comme un constat, un bilan de mes travaux précédents. Souvent, les relations humaines et le rapport à soi sont plus ou moins fortement caractérisés par la domination. Des personnes peuvent dominer d’autres personnes, comme par exemple avec la femme, ou encore les émotions peuvent l’emporter sur la maîtrise de soi.
 
 Il s’agit d’une sculpture en argile que j’ai peinte à l’acrylique. Sur un lit de pelouse fraîche artificielle, une main ensanglantée arrache des roses de leur habitat qui finissent par fâner. Le sang qui coule est donc celui des roses mortes.
 
