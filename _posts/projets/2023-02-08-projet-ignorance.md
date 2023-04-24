@@ -7,7 +7,7 @@ category: projets
 category2: lycée
 description: Un de mes projets pour le Baccalauréat ayant pour thème le déni
 data1: 2022
-data2: 42 x 29,7 cm
+data2: 42 × 29,7 cm
 data3: Acrylique, crayons de couleur et collage
 blog: blogprojets
 ---
