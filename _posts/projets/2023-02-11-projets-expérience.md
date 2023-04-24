@@ -42,8 +42,6 @@ blog: blogprojets
   </div>
 </div>
 
-Pour ce travail, j’ai voulu finir avec une note positive parce que oui, si l’autre peut dominer, si nous pouvons être soumis, l’autre peut exercer une influence positive sur nous-même.
+Mini-livre illustré de 23 pages qui narre l’histoire de Sora, une adolescente qui reprend peu à peu goût à la vie suite à la rencontre d’un être qui lui est cher, car c’est celui-ci qui a influé énormément sur la perception négative qu’elle avait d’elle-même.
 
-J’avais d’abord pour ambition de faire une animation mais par manque de temps, je me suis dirigée vers la création d’un mini-livre illustré de 23 pages qui narre l’histoire d’une adolescente reprenant peu à peu goût à la vie suite à la rencontre d’un être qui lui est cher, car c’est celui-ci qui a influé énormément sur la perception négative qu’elle avait d’elle-même. Cette histoire met en lumière que l’intervention d’autrui peut s’avérer positive pour une personne.
-
-Ce travail est né de textes que j’écrivais comme base à l’illustration. Tout d’abord, j’ai voulu y inclure une fin triste, mais insatisfaite par le message qui en découlait, j’en ai alors réécrit un en anglais que j’ai traduit en français, servant de support à mes illustrations finales. Ce dernier travail m’est intime car il traite de ce que j’ai ressenti cette année grâce à mes rencontres qui m’ont fortement aidée à évoluer.
+Cette histoire met en lumière que l’intervention d’autrui peut s’avérer positive pour une personne. Ce travail est né de textes que j’écrivais comme base à l’illustration. Tout d’abord, j’ai voulu y inclure une fin triste, mais insatisfaite par le message qui en découlait, j’en ai alors réécrit un en anglais que j’ai traduit en français, servant de support à mes illustrations finales présentées ci-dessus.
