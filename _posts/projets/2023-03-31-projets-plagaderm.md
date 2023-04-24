@@ -57,11 +57,10 @@ blog: blogprojets
 </div>
 <em>Mascotte et packaging Plagaderm</em>
 
-<div class="image_container">
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img9.jpg"></div>
+<div style="width: 30% !important; margin: 0 auto !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img10.jpg"></div>
 </div>
-<em>Flyer et sticker Plagaderm</em>
+<em>Sticker Plagaderm</em>
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img14.png"></div>
