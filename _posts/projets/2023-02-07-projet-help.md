@@ -12,8 +12,11 @@ data3: Acrylique et crayons de couleur sur papier cartonné
 blog: blogprojets
 ---
 
-<div class="image_container">
+<div style="width: 50% !important; margin: 0 auto !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img2.jpg"></div>
+</div>
+
+<div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img5.jpg"></div>
 </div>
 
