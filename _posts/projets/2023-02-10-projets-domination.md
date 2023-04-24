@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Domination"
-preview: /css/image/image_projets/image_projet_domination/img1.jpg
+preview: /css/image/image_projets/image_projet_domination/thumbnail.jpg
 date: 2023-02-10
 category: projets 
 category2: lycée
