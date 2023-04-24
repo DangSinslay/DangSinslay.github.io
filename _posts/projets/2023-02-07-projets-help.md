@@ -26,7 +26,13 @@ Souvent dans ces situations, nous nous refermons sur nous-même et devenons à l
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img1.jpg"></div>
+</div>
+
+<div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img3.jpg"></div>
+</div>
+
+<div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img4.jpg"></div>
 </div>
 
