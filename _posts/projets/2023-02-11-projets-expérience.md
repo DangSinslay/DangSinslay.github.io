@@ -42,7 +42,7 @@ blog: blogprojets
   </div>
 </div>
 
-Pour mon dernier travail, j’ai voulu finir avec une note positive parce que oui, si l’autre peut dominer, si nous pouvons être soumis, l’autre peut exercer une influence positive sur nous-même.
+Pour ce travail, j’ai voulu finir avec une note positive parce que oui, si l’autre peut dominer, si nous pouvons être soumis, l’autre peut exercer une influence positive sur nous-même.
 
 J’avais d’abord pour ambition de faire une animation mais par manque de temps, je me suis dirigée vers la création d’un mini-livre illustré de 23 pages qui narre l’histoire d’une adolescente reprenant peu à peu goût à la vie suite à la rencontre d’un être qui lui est cher, car c’est celui-ci qui a influé énormément sur la perception négative qu’elle avait d’elle-même. Cette histoire met en lumière que l’intervention d’autrui peut s’avérer positive pour une personne.
 
