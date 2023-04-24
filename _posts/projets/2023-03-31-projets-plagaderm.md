@@ -57,7 +57,7 @@ blog: blogprojets
 </div>
 <em>Mascotte et packaging Plagaderm</em>
 
-<div style="width: 30% !important; margin: 0 auto !important;" class="image_container">
+<div style="width: 50% !important; margin: 0 auto !important;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_plagaderm/img10.jpg"></div>
 </div>
 <em>Sticker Plagaderm</em>
