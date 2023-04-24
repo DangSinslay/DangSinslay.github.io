@@ -12,7 +12,7 @@ data3: Acrylique, crayons de couleur et collage
 blog: blogprojets
 ---
 
-<div class="image_container">
+<div style="width: 60%; margin: 0 auto;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_ignorance/img1.jpg"></div>
 </div> 
 
