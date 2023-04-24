@@ -16,11 +16,9 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img1.jpg"></div>
 </div> 
 
-Ce travail s’illustre comme un constat, un bilan de mes travaux précédents. Souvent, les relations humaines et le rapport à soi sont plus ou moins fortement caractérisés par la domination. Des personnes peuvent dominer d’autres personnes, comme par exemple avec la femme, ou encore les émotions peuvent l’emporter sur la maîtrise de soi.
+Les relations humaines et notre rapport à soi sont plus ou moins fortement caractérisés par la domination.
 
-Il s’agit d’une sculpture en argile que j’ai peinte à l’acrylique. Sur un lit de pelouse fraîche artificielle, une main ensanglantée arrache des roses de leur habitat qui finissent par fâner. Le sang qui coule est donc celui des roses mortes.
-
-Je qualifie souvent ce travail de métaphore de la domination avec la main représentant le bourreau qui arrache sans consentement les victimes représentées par les roses. Pour cela, je ne m’étais pas vraiment inspirée de quoi que ce soit tant l’idée et le visuel me sont venus instinctivement en tête par hasard un jour, mais j’ai remarqué une certaine ressemblance avec la rose éternelle de la Belle et la bête qui m’a peut être inspirée inconsciemment.
+Cette sculpture est une métaphore de cette domination : la main représente le bourreau qui arrache sans consentement les victimes représentées par les roses.
 
 <div class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img3.jpg"></div>
