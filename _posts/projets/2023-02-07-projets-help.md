@@ -20,7 +20,7 @@ blog: blogprojets
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_help/img5.jpg"></div>
 </div>
 
-Mon deuxième travail, qui est une série, nous fait voyager dans l’intériorité et l’opposition des sentiments que nous ressentons en notre sein. Si, à l’origine, j’avais voulu traiter du thème de la guerre qui me tient à cœur, j’ai choisi d’aborder davantage la souffrance psychologique à laquelle nous pouvons faire face.
+Ce travail, qui est une série, nous fait voyager dans l’intériorité et l’opposition des sentiments que nous ressentons en notre sein. Si, à l’origine, j’avais voulu traiter du thème de la guerre qui me tient à cœur, j’ai choisi d’aborder davantage la souffrance psychologique à laquelle nous pouvons faire face.
 
 Cette peinture à l’acrylique représente un rapport de force intérieur, de nous à nous-même. Lorsque nous traversons des moments difficiles, le désarroi, la tristesse et la douleur s’emparent de nous et un conflit intérieur se crée. Nous voulons appeler à l’aide, mais le cachons en même temps. Il s’agit d’un travail très personnel puisque je m’identifie à cet homme qui souffre. J’ai longtemps lutté dans le silence mais la représentation visuelle de ce j’ai pu ressentir m’a permis de m’exprimer plus aisément.
 
