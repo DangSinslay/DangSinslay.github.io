@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Domination"
-preview: /css/image/image_projets/image_projet_ignorance/thumbnail.jpg
+preview: /css/image/image_projets/image_projet_domination/thumbnail.jpg
 date: 2023-02-10
 category: projets 
 category2: lycée
@@ -26,7 +26,10 @@ Je qualifie souvent ce travail de métaphore de la domination avec la main repr�
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img3.jpg"></div>
 </div>
 
-<div class="image_container">
+<div style="width: 70%; margin: 0 auto;" class="image_container">
 <div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img4.jpg"></div>
-<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img5.jpg"></div>
+</div>
+
+<div style="width: 50%; margin: 0 auto;" class="image_container">
+<div><img onclick="Zoom(this)" class="img-gallery" src="/css/image/image_projets/image_projet_domination/img4.jpg"></div>
 </div>
