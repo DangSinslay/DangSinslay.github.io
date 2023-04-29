@@ -2,7 +2,7 @@
 layout: post
 title: "Basilic"
 preview: /css/image/image_projets/image_projet_basilic/img1.jpg
-date: 2023-02-12
+date: 2023-02-13
 category: projets 
 category2: personnel
 description: Quand le coq et le serpent se rencontrent
