@@ -2,7 +2,7 @@
 layout: post
 title: "The Knife"
 preview: /css/image/image_projets/image_projet_knife/thumbnail.jpg
-date: 2023-02-23
+date: 2023-02-24
 category: projets 
 category2: gobelins
 description: Création de supports visuels à partir du livre « The Knife » 
