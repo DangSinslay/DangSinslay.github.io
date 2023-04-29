@@ -2,7 +2,7 @@
 layout: post
 title: "Kukulakuku"
 preview: /css/image/image_projets/image_projet_swatch/thumbnail.jpg
-date: 2023-02-24
+date: 2023-02-25
 category: projets 
 category2: gobelins
 description: Reproduction d’une montre sur Illustrator
