@@ -2,7 +2,7 @@
 layout: post
 title: "FIN.E"
 preview: /css/image/image_projets/image_projet_fine/img1.jpg
-date: 2023-02-13
+date: 2023-02-14
 category: projets 
 category2: personnel
 description: ...Don’t worry ! Everything’s gonna be FIN.E
