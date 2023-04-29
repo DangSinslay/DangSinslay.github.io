@@ -2,7 +2,7 @@
 layout: post
 title: "Alphabet graphique"
 preview: /css/image/image_projets/image_projet_alphabet/thumbnail.jpg
-date: 2023-02-15
+date: 2023-02-16
 category: projets 
 category2: gobelins
 description: Création d’un alphabet graphique et réalisation d’affiches 
