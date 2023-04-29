@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome Breakfast"
 preview: /css/image/image_projets/image_projet_bluespirit/thumbnail.jpg
-date: 2023-02-22
+date: 2023-02-23
 category: projets 
 category2: stage
 description: Carton d’invitation au nouveau studio Blue Spirit à Angoulême
