@@ -2,7 +2,7 @@
 layout: post
 title: "Slow Dancing in the Dark"
 preview: /css/image/image_projets/image_projet_joji/thumbnail.jpg
-date: 2023-02-25
+date: 2023-02-26
 category: projets
 category2: gobelins
 description: Création d'un objet éditorial à partir d'un clip musical
