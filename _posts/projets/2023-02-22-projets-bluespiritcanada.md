@@ -2,7 +2,7 @@
 layout: post
 title: "Célébration des 10 ans de Blue Spirit Canada"
 preview: /css/image/image_projets/image_projet_bluespiritcanada/thumbnail.jpg
-date: 2023-02-21
+date: 2023-02-22
 category: projets 
 category2: stage
 description: Proposition de formats/visuels d'affiches pour des événements en interne de Blue Spirit
