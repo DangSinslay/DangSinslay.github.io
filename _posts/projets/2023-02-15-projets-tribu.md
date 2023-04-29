@@ -2,7 +2,7 @@
 layout: post
 title: "La Tribu"
 preview: /css/image/image_projets/image_projet_tribu/thumbnail.jpg
-date: 2023-02-14
+date: 2023-02-15
 category: projets 
 category2: gobelins
 description: Conception de l'identité visuelle d’une tribu 
