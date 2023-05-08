@@ -5,7 +5,7 @@ preview: /css/image/image_projets/image_projet_human/thumbnail.jpg
 date: 2023-02-05
 category: projets 
 category2: lycée
-description: Un de mes projets pour le Baccalauréat ayant pour thème l'oppression des femmes
+description: La condition féminine ... en évolution ?
 data1: 2021
 data2: 83 × 70 cm
 data3: Acrylique, feutres et collage sur papiers cartonnés
