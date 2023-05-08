@@ -5,7 +5,7 @@ preview: /css/image/image_projets/image_projet_ignorance/thumbnail.jpg
 date: 2023-02-08
 category: projets 
 category2: lycée
-description: Un de mes projets pour le Baccalauréat ayant pour thème le déni
+description: C'est fou comment le noir le plus profond ... peut rendre une vie plus solaire
 data1: 2022
 data2: 42 × 29,7 cm
 data3: Acrylique, crayons de couleur et collage
