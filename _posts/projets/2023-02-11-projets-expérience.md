@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "L'expérience"
+title: "L'Expérience"
 preview: /css/image/image_projets/image_projet_bac/img12.jpg
 date: 2023-02-11
 category: projets 
 category2: lycée
-description: Un de mes projets pour le Baccalauréat ayant pour thème les relations humaines et le rapport à soi
+description: Mini-livre illustré sur l'importance de l'altérité 
 data1 : 2022
 data2 : 14,8 × 21 cm
 data3 : Travail numérique à la tablette graphique réalisé sur FireAlpaca64
