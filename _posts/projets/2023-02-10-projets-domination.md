@@ -5,7 +5,7 @@ preview: /css/image/image_projets/image_projet_domination/thumbnail.jpg
 date: 2023-02-10
 category: projets 
 category2: lycée
-description: Un de mes projets pour le Baccalauréat ayant pour thème les relations humaines et le rapport à soi
+description: Sculpture métaphorique de la domination 
 data1: 2022
 data2: H.23 × D.17 cm
 data3: Argile, acrylique et roses fanées
