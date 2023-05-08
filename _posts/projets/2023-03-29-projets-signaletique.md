@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Signalétique de l'espace DNMADE à Gobelins Paris"
-preview: /css/image/image_projets/image_projet_signaletique/thumbnail.jpg
+preview: /css/image/image_projets/image_projet_signaletique/img9.jpg
 date: 2023-03-29
 category: projets
 category2: gobelins
